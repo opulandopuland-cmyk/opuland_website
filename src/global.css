@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Hepta+Slab:wght@1..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 @import url("https://cdn.jsdelivr.net/npm/@fontsource-variable/cairo@5.3.0/index.css");
 @import url("https://cdn.jsdelivr.net/npm/@fontsource-variable/noto-kufi-arabic@5.3.0/index.css");
+@import url("https://cdn.jsdelivr.net/npm/@fontsource-variable/beiruti@5.3.0/index.css");
 @import url("https://fonts.cdnfonts.com/css/sf-pro-display");
 @import "tailwindcss";
 @import "tw-animate-css";
@@ -22,6 +23,7 @@
   --font-hepta-slab: "Hepta Slab", serif;
   --font-cairo: "Cairo Variable", sans-serif;
   --font-noto-kufi-arabic: "Noto Kufi Arabic Variable", sans-serif;
+  --font-beiruti: "Beirut Variable", sans-serif;
 
   --radius: 0.625rem;
 
@@ -89,6 +91,7 @@
   --font-hepta-slab: var(--font-hepta-slab);
   --font-cairo: var(--font-cairo);
   --font-noto-kufi-arabic: var(--font-noto-kufi-arabic);
+  --font-beiruti: var(--font-beiruti);
 
   --radius-sm: calc(var(--radius) - 4px);
   --radius-md: calc(var(--radius) - 2px);
@@ -141,6 +144,24 @@
 }
 
 @layer base {
+  h1 {
+    @apply leading-15 md:leading-22;
+  }
+  h2 {
+    @apply leading-13 md:leading-16;
+  }
+  h3 {
+    @apply leading-11 md:leading-14;
+  }
+  h4 {
+    @apply leading-9 md:leading-12;
+  }
+  h5 {
+    @apply leading-7 md:leading-10;
+  }
+  h6 {
+    @apply leading-5 md:leading-8;
+  }
   * {
     @apply border-border outline-ring/50;
   }
