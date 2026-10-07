@@ -1,0 +1,696 @@
+{
+  "langs": {
+    "en": "English",
+    "ckb": "کوردی"
+  },
+  "nav": {
+    "home": "سەرەکی",
+    "about": "دەربارە",
+    "services": "خزمەتگوزارییەکان",
+    "care_sector": "کەرتی چاودێری",
+    "projects": "پڕۆژەکان",
+    "design_studio": "ستودیۆی دیزاین",
+    "invest": "وەبەرهێنان",
+    "contact": "پەیوەندی"
+  },
+  "header": {
+    "label": "Opulent Property Group",
+    "button": "گفتوگۆ لەسەر پڕۆژەکەت"
+  },
+  "cta": {
+    "discuss": "گفتوگۆ لەسەر پڕۆژەکەت",
+    "whatsapp": "گفتوگۆ لە واتساپ",
+    "partner": {
+      "title": "هاوبەشی لەگەڵ Opulent Property Group.",
+      "body": "جا خاوەنی زەوی بیت، پێویستت بە شارەزایی گەشەپێدان هەبێت یان بیەوێت لەگەڵ گەشەپێدەرانی شارەزا وەبەرهێنان بکەیت، ئێمە ئامادەین قسەت لەگەڵ بکەین."
+    }
+  },
+  "common": {
+    "investment_notice": "ئاگاداری وەبەرهێنان"
+  },
+  "cookie": {
+    "title": "ئێمە کوکی لەم ماڵپەڕەدا بەکاردەهێنین",
+    "body": "کوکییە بنەڕەتییەکان بەکاردەهێنین بۆ کارکردنی ماڵپەڕەکە. هەروەها دەمانەوێت کوکیی شیکاری و بازاڕگەری دابنێین بۆ باشترکردنی ماڵپەڕەکە. تەنها ئەگەر قبوڵیان بکەیت دادەنرێن. بۆ وردەکاری زیاتر، بڕوانە",
+    "accept": "قبوڵکردنی هەموو",
+    "reject": "ڕەتکردنەوەی ناگرنگەکان",
+    "manage": "بەڕێوەبردنی هەڵبژاردەکان"
+  },
+  "stats": {
+    "years": "ساڵ ئەزموونی پیشەسازی",
+    "sites": "شوێن پشکنراو لە ٢٠٢٦",
+    "largest": "گەورەترین پڕۆژەی تاک",
+    "sectors": "کەرتی جێبەجێکراو"
+  },
+  "footer": {
+    "tagline": "خزمەتگوزاری پیشەیی خانووبەرە لە بیرمینگهام، بۆ کڕیاران لە سەرانسەری ئینگلتەرا.",
+    "location": "بیرمینگهام، ئینگلتەرا",
+    "copyright": "© ٢٠٢٦ Opulent Property Group Ltd. هەموو مافەکان پارێزراون. تۆمارکراو لە ئینگلتەرا و وەیلز. ژمارەی کۆمپانیا ١١٥٨٥٩٦٥",
+    "columns": {
+      "services": "خزمەتگوزارییەکان",
+      "company": "کۆمپانیا",
+      "contact": "پەیوەندیمان پێوە بکە"
+    },
+    "links": {
+      "property_sourcing": "دۆزینەوەی خانووبەرە",
+      "investment_advisory": "ڕاوێژکاری وەبەرهێنان",
+      "planning_permission": "مۆڵەتی پلاندانان",
+      "building_control": "کۆنترۆڵی بیناسازی",
+      "about": "دەربارەی ئێمە",
+      "projects": "پڕۆژەکانمان",
+      "invest": "وەبەرهێنان لەگەڵمان",
+      "contact": "پەیوەندی",
+      "care": "کەرتی چاودێری",
+      "design": "ستودیۆی دیزاین"
+    },
+    "legal": {
+      "privacy": "سیاسەتی تایبەتمەندی",
+      "cookie": "سیاسەتی کوکی",
+      "terms": "مەرج و ڕێساکان",
+      "disclaimer": "ئاگاداری وەبەرهێنان"
+    }
+  },
+  "social": {
+    "linkedin": "LinkedIn",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "youtube": "YouTube"
+  },
+  "home": {
+    "hero": {
+      "title": "دەکڕین. پلانی بۆ دادەنێین. گەشەی پێدەدەین.",
+      "body": "گەشەپێدانی خانووبەرە بە شێوازی هاوبەشی و بێ سوو لە سەرانسەری ئینگلتەرا — لەسەر بنەمای ١١ ساڵ ئەزموونی کرداری لە پلاندانان، ڕووپێوی بڕ و بەڕێوەبردنی گەشەپێدان.",
+      "cta_primary": "ڕێبازەکەمان ببینە"
+    },
+    "pathways": {
+      "landowners": {
+        "eyebrow": "بۆ خاوەن زەوی",
+        "title": "زەویم هەیە",
+        "body": "شوێنێکت هەیە توانای گەشەپێدانی هەبێت؟ ئێمە هەڵدەسەنگێنین، پێکهاتە دادەڕێژین و پڕۆژەکان لە پلاندانانەوە تا جێبەجێکردن دەبەینە پێشەوە.",
+        "cta": "گفتوگۆ لەسەر شوێنەکەت"
+      },
+      "investors": {
+        "eyebrow": "بۆ وەبەرهێنەران",
+        "title": "دەمەوێت وەبەرهێنان بکەم",
+        "body": "لەگەڵ کۆمەڵێک وەبەرهێنەری هەڵبژێردراو هاوبەشی دەکەین لەسەر دەرفەتی گەشەپێدانی خانووبەرە بە شێوازی بێ سوو و پشتگیریکراو بە سامان.",
+        "cta": "وەبەرهێنان ببینە"
+      },
+      "developers": {
+        "eyebrow": "بۆ گەشەپێدەران و بازرگانان",
+        "title": "پێویستم بە شارەزایی هەیە",
+        "body": "داواکاری پلاندانان، ڕووپێوی بڕ، بەڕێوەبردنی تێچوون و ڕاوێژکاری گەشەپێدان بۆ پڕۆژەکەت.",
+        "cta": "خزمەتگوزارییەکانمان ببینە"
+      }
+    },
+    "what_we_do": {
+      "eyebrow": "چی دەکەین",
+      "title": "چی دەکەین",
+      "tagline": "«دەرەوەی بازاڕ. هەڵبژێردراو. دیسیپلین.»",
+      "cta": "هەموو خزمەتگوزارییەکان ببینە",
+      "cards": {
+        "development": {
+          "title": "Development & Acquisition",
+          "body": "We identify, acquire and develop land and property for investors, landowners and strategic partners. Off-market. Selective. Disciplined."
+        },
+        "planning": {
+          "title": "Planning & Construction Consultancy",
+          "body": "Planning applications, contractor procurement, quantity surveying, cost management and lender drawdown reporting — delivered by people who have done it, not just advised on it."
+        },
+        "care": {
+          "title": "Care Sector Development",
+          "body": "Specialist advisory for care homes, supported living and extra care developments. We connect operators with suitable sites, introduce property owners to established care providers, and provide end-to-end support from site identification through to planning approval."
+        },
+        "design": {
+          "title": "Design Studio",
+          "body": "Architectural visualisation, CGI renders, interior design and development branding. We bring ideas to life long before construction begins."
+        }
+      }
+    },
+    "founder": {
+      "eyebrow": "Founded By",
+      "name": "Rebwar Waladbaigi",
+      "role": "Founder & Operating Lead, Opulent Property Group",
+      "body": "Rebwar has 11 years of experience across quantity surveying, development management, planning and construction consultancy — including roles advising development lenders and managing large commercial portfolios. He founded OPG in 2018 with a clear conviction: that property development could be done differently — without interest-bearing debt, and with full alignment between investors and developers.",
+      "cta": "Connect on LinkedIn"
+    },
+    "about_opg": {
+      "eyebrow": "About Opulent Property Group",
+      "title": "Over a decade of execution. Not just advice.",
+      "body": "Founded in 2018, OPG is a Birmingham-based property development and advisory business. Our background spans planning, quantity surveying, development management and construction consultancy.\n\nWe have contributed to projects up to £42m in value across residential, commercial, care and mixed-use development. We work with a select group of investors and landowners, applying the same commercial discipline to every instruction.",
+      "cta": "Learn More About Us",
+      "features": {
+        "off_market": {
+          "title": "Off-Market Access",
+          "body": "Sourced through relationships, not portals."
+        },
+        "execution": {
+          "title": "Execution-Led",
+          "body": "We plan, procure and deliver. Not just advise."
+        },
+        "interest_free": {
+          "title": "Interest-Free",
+          "body": "Equity-based structures. No interest-bearing debt."
+        }
+      }
+    },
+    "ready": {
+      "title": "ئامادەیت قسە بکەین؟",
+      "body": "جا خاوەنی زەوی بیت، پێویستت بە شارەزایی گەشەپێدان هەبێت یان بیەوێت لەگەڵ گەشەپێدەرانی شارەزا وەبەرهێنان بکەیت، ئێمە ئامادەین گفتوگۆ بکەین."
+    }
+  },
+  "about": {
+    "founder": {
+      "name": "Rebwar Waladbaigi",
+      "role": "Founder & Operating Lead, Opulent Property Group",
+      "cta": "Connect on LinkedIn"
+    },
+    "statement": {
+      "eyebrow": "ئێمە کێین",
+      "title": "گەشە دەدەین. ڕاوێژ دەدەین. وەبەرهێنان دەکەین.",
+      "body": "Combining planning, development, quantity surveying and investment expertise to help landowners, investors and businesses unlock the full potential of land and property."
+    },
+    "story": {
+      "eyebrow": "Our Story",
+      "title": "Built through experience. Driven by execution.",
+      "body": "Opulent Property Group was founded on the belief that the best property advice comes from people who have delivered projects themselves. Our background spans planning, quantity surveying, development management, construction consultancy and property investment, giving clients practical advice grounded in real-world experience.\n\nOver the past decade, we have contributed to projects up to £42m in value across residential, commercial, care and mixed-use development. Whether supporting landowners through planning, advising investors on acquisitions or managing developments from concept to completion, we apply the same commercial discipline to every instruction.\n\nToday, OPG works with landowners, developers, investors and businesses across England, combining technical expertise with long-term thinking to unlock the full potential of land and property."
+    },
+    "mission": "OPG هەیە بۆ نیشاندانی ئەوەی گەشەپێدانی خانووبەرە دەکرێت بەبێ قەرزی سوودار — و پێکهاتەی وەبەرهێنانی ئەخلاقی و هاوبەشی دەتوانێت باشتر بێت لە شێوازە باوەکان کاتێک لەگەڵ شارەزایی ڕاستەقینەی گەشەپێدان تێکەڵ دەبێت."
+  },
+  "services": {
+    "hero": {
+      "eyebrow": "چی دەکەین",
+      "title": "خزمەتگوزاری پیشەیی خانووبەرە",
+      "body": "Delivered by practitioners, not generalists. Every instruction handled with the same rigour we apply to our own investments."
+    },
+    "development": {
+      "eyebrow": "Development & Acquisition",
+      "title": "We source off-market.\nWe structure without interest.",
+      "sellers": {
+        "eyebrow": "For Sellers & Landowners",
+        "title": "Bring your property to us.",
+        "body": "We are actively acquiring land, commercial buildings and residential assets across Birmingham and the Midlands. We move quickly, transact with certainty, and don't waste your time. We are particularly interested in sites and assets not yet on the open market — motivated sellers, probate, vacant and distressed assets welcome.",
+        "points": {
+          "p1": "Unconditional and conditional purchases considered",
+          "p2": "Probate, vacant, and distressed assets welcome",
+          "p3": "Confidential, no-obligation conversations"
+        },
+        "cta": "Discuss Your Property"
+      },
+      "investors": {
+        "eyebrow": "For Investors",
+        "title": "We don't often open to new investors.",
+        "body": "Our acquisition pipeline is built on off-market relationships and proprietary deal flow. We identify deeply discounted and structurally undervalued assets, execute disciplined refurbishment programmes, and exit or hold for income. Our investor base is small by design.",
+        "points": {
+          "p1": "Off-market and below-market acquisitions only",
+          "p2": "Equity-based structures — no interest-bearing debt",
+          "p3": "Profit-sharing on a deal-by-deal basis",
+          "p4": "Investors are accepted by pre-qualification only. Minimum investable capital of £100,000 applies."
+        },
+        "cta": "Register Your Interest"
+      }
+    },
+    "consultancy": {
+      "eyebrow": "Planning & Construction Consultancy",
+      "title": "The technical backbone behind successful developments.",
+      "intro": "We provide comprehensive consultancy to developers, contractors, and funding institutions across the full development lifecycle. Whether you need a QS from day one or a bank monitor from drawdown, we have the experience to deliver.",
+      "cards": {
+        "planning": {
+          "title": "Planning Applications",
+          "body": "Preparation, coordination and submission of full planning applications, prior approvals, and change of use consents. Residential, commercial, and mixed-use."
+        },
+        "pre_app": {
+          "title": "Pre-Application Advice",
+          "body": "Strategic guidance before submission. We assess viability, identify risk, and engage with local planning authorities on your behalf."
+        },
+        "qs": {
+          "title": "Quantity Surveying & Cost Management",
+          "body": "Detailed cost plans, bills of quantities, tender analysis and cost reporting. From feasibility through to final account."
+        },
+        "procurement": {
+          "title": "Contractor Procurement",
+          "body": "Tender preparation, contractor selection, contract negotiation and appointment. We protect your interests throughout."
+        },
+        "contract": {
+          "title": "Contract Administration",
+          "body": "Acting as contract administrator or employer's agent on JCT and bespoke contracts. Valuations, instructions, and dispute avoidance."
+        },
+        "bank": {
+          "title": "Bank Monitoring & Lender Reporting",
+          "body": "Independent monitoring for development lenders. Progress reports, cost-to-complete assessments, and draw-down certification."
+        }
+      }
+    },
+    "advisory": {
+      "eyebrow": "Property Advisory",
+      "title": "Supporting clients at every stage of the property journey.",
+      "cards": {
+        "sourcing": {
+          "title": "Property Sourcing",
+          "body": "We identify and acquire properties on behalf of clients — residential, commercial, and investment. On and off-market."
+        },
+        "lease": {
+          "title": "Commercial Lease Review",
+          "body": "Expert review of commercial leases and contracts. We identify risk, negotiate terms, and protect your position."
+        },
+        "valuations": {
+          "title": "Property Valuations & Appraisals",
+          "body": "Development appraisals and commercial valuations. With or without planning permission. Residual and comparable methodology."
+        },
+        "liaison": {
+          "title": "Planning Authority Liaison",
+          "body": "Navigating enforcement, compliance queries, planning disputes and local authority correspondence on your behalf."
+        },
+        "project_mgmt": {
+          "title": "Project & Development Management",
+          "body": "Managing projects from acquisition to completion, coordinating consultants, contractors and budgets to protect your investment."
+        },
+        "due_diligence": {
+          "title": "Investment Due Diligence",
+          "body": "Commercial, planning and technical due diligence to support informed property and development acquisitions."
+        }
+      }
+    }
+  },
+  "care": {
+    "hero": {
+      "eyebrow": "Care Home • Supported Living • Extra Care",
+      "title": "گەشەپێدان و وەبەرهێنان لە کەرتی چاودێری",
+      "body": "From identifying suitable development sites to securing planning permission, introducing operators and structuring investment, we deliver care sector projects from concept through to completion."
+    },
+    "audience": {
+      "operators": {
+        "eyebrow": "For Care Operators & Providers",
+        "title": "You Define. We Source. We Deliver.",
+        "body": "Whether you're expanding an existing portfolio or opening a new service, we act as your property and development partner. Tell us your preferred location, bed numbers, building type, budget and programme—we'll identify suitable opportunities, secure the site, manage planning and coordinate the development through to handover.",
+        "points": {
+          "p1": "Brief-led site sourcing (on and off-market)",
+          "p2": "Planning, design and consultant management",
+          "p3": "Operator-led layouts and specifications",
+          "p4": "Development management through to handover"
+        }
+      },
+      "investors": {
+        "eyebrow": "For Investors",
+        "title": "Acquire. Create Value. Hold.",
+        "body": "Care and supported living assets offer some of the most resilient income profiles in the property market. Demand is structural, tenants are institutional, and leases are long. We identify, acquire and develop care sector assets on behalf of investors — then hold them for income or exit at a premium. Every investment is equity-based and interest-free.",
+        "points": {
+          "p1": "Value-add acquisitions with long-term ownership",
+          "p2": "Planning and refurbishment-led value creation",
+          "p3": "Long-term rental income and capital growth",
+          "p4": "Interest-free, equity-based investment structure"
+        }
+      }
+    },
+    "journey": {
+      "title": "Your Development Journey",
+      "steps": {
+        "s1": {
+          "title": "Tell Us What You Need",
+          "body": "Tell us your preferred location, capacity, operational requirements and timescales. We assess your brief and advise on the best delivery strategy."
+        },
+        "s2": {
+          "title": "Site & Opportunity Matching",
+          "body": "We identify suitable on and off-market sites that match your brief. Every opportunity is assessed commercially, operationally and from a planning perspective."
+        },
+        "s3": {
+          "title": "Acquisition & Planning",
+          "body": "We negotiate the acquisition, coordinate consultants and manage the planning process to create a clear route to delivery."
+        },
+        "s4": {
+          "title": "Development & Compliance",
+          "body": "We oversee design, procurement, planning conditions and construction management through to a completed, operator-ready asset."
+        },
+        "s5": {
+          "title": "Tenancy & Income",
+          "body": "Operators move into a completed facility. Investors benefit from long-term ownership while we continue to provide asset management support where required."
+        }
+      }
+    },
+    "form": {
+      "title": "Discuss Your Site",
+      "intro": "Whether you're a care operator planning your next development or an investor exploring opportunities in the care sector, we'd welcome the opportunity to speak. We take on a limited number of partnerships, ensuring every project receives our full commitment."
+    },
+    "notice": "References to investment opportunities on this page are for general information only. Such opportunities are only available where legally permitted, exclusively to individuals who qualify as sophisticated investors or high net worth individuals. Eligibility and suitability checks apply. Capital is at risk. Nothing on this website constitutes investment, financial, tax or legal advice. Past performance is not a reliable indicator of future results."
+  },
+  "projects": {
+    "hero": {
+      "eyebrow": "کارەکانمان",
+      "title": "پڕۆژەکان",
+      "body": "تۆمارێک لەسەر جێبەجێکردن بنیاد نراوە، نەک بەڵێن."
+    },
+    "opg": {
+      "eyebrow": "Section A",
+      "title": "OPG Developments",
+      "bromyard": {
+        "title": "Bromyard Care Village",
+        "location": "Porthouse Farm, Tenbury Road, Bromyard, Herefordshire",
+        "status": "Planning Resubmission — 2026",
+        "tag": "Active Project · Care Sector",
+        "body": "A mixed-use care-led development comprising a 78-bed C2 care home, 3 bungalows, a 1,116 sqm Class E foodstore shell, and conversion of an existing building. The scheme addresses acute care capacity needs in rural Herefordshire and represents a significant community infrastructure investment. Full consultant team appointed. Planning resubmission targeting August–September 2026."
+      }
+    },
+    "team": {
+      "eyebrow": "Section B",
+      "title": "Selected Team Experience",
+      "intro": "The following projects reflect experience contributed by OPG's principals in prior professional roles, spanning quantity surveying, development management, project management and bank monitoring.",
+      "note": "The following projects reflect experience contributed by OPG's principals in prior professional roles, spanning quantity surveying, development management, project management and bank monitoring.",
+      "col_project": "Project",
+      "col_value": "Value",
+      "col_role": "Role",
+      "civic": {
+        "project": "Civic House Redevelopment",
+        "role": "Quantity Surveying Services"
+      },
+      "myoderm": {
+        "project": "Myoderm Pharmaceutical Distribution Centre",
+        "role": "Quantity Surveying Services"
+      },
+      "nuneaton": {
+        "project": "Nuneaton — 6 Luxury Detached Homes",
+        "role": "Project Management & Quantity Surveying Services"
+      },
+      "pershore": {
+        "project": "Pershore — Georgian Houses to 8 Apartments",
+        "role": "Quantity Surveying Services"
+      },
+      "portfield": {
+        "project": "141 Portfield Road",
+        "role": "Development Surveying Services"
+      },
+      "palace": {
+        "project": "12A Palace Road London SW2",
+        "role": "Bank Monitoring Services"
+      },
+      "windmill": {
+        "project": "94 Windmill Road Brentford — 9 Flats + Commercial",
+        "role": "Development Surveying Services"
+      },
+      "printworks": {
+        "project": "The Printworks Bradford — 385 Flats",
+        "role": "Development Surveying Services"
+      }
+    }
+  },
+  "design": {
+    "hero": {
+      "eyebrow": "Opulent Design Studio",
+      "title": "هەموو وردەکارییەک.\nهەموو گۆشەیەک.",
+      "body": "Photorealistic CGI, immersive walkthroughs and design consultancy that help secure planning, attract investment and accelerate sales.",
+      "cta": "پڕۆژەکەت دەست پێ بکە"
+    },
+    "intro": {
+      "eyebrow": "What We Do",
+      "title": "Visualisation that performs.",
+      "body": "Great visualisation does more than look impressive. It helps planners understand proposals, gives investors confidence and enables buyers to see the finished product before construction begins. Every image we produce has a commercial purpose."
+    },
+    "services": {
+      "eyebrow": "Our Services",
+      "title": "Visualisation built for planning, investment and sales.",
+      "cards": {
+        "rendering": {
+          "title": "3D Architectural Rendering",
+          "body": "Photorealistic exterior renders that showcase the finished development. Built for planning application, marketing brochures, and investor presentations."
+        },
+        "interior": {
+          "title": "Interior Visualisation",
+          "body": "Detailed interior renders communicating layout, material finishes, and ambience. Buyers decide with their eyes."
+        },
+        "cgi": {
+          "title": "CGI Animations & Walkthroughs",
+          "body": "Immersive animated walkthroughs for sales events, investor pitches, and planning committee presentations."
+        },
+        "site_plans": {
+          "title": "Site Plans & Concept Layouts",
+          "body": "Clear, presentation-ready site layout plans and concept drawings for planning submissions and stakeholder communication."
+        },
+        "scans": {
+          "title": "3D Building Scans",
+          "body": "High-accuracy 3D scanning of existing buildings and sites. Measured surveys, as-built documentation, and heritage recording."
+        },
+        "consultancy": {
+          "title": "Development Design Consultancy",
+          "body": "Early-stage design advice that balances planning policy, commercial viability and market appeal before detailed design begins."
+        }
+      }
+    },
+    "portfolio": {
+      "eyebrow": "Portfolio",
+      "title": "Our Work.",
+      "items": {
+        "p1": "Exterior CGI — woodland bungalow",
+        "p2": "Stone cottage terrace",
+        "p3": "Barn-style house",
+        "p4": "Interior living space",
+        "p5": "Kitchen diner",
+        "p6": "Bathroom visualisation"
+      }
+    },
+    "process": {
+      "eyebrow": "How It Works",
+      "title": "Turning development concepts into compelling visuals.",
+      "steps": {
+        "discover": {
+          "title": "Discover",
+          "body": "Tell us about your project, target audience and objectives. Whether it's planning, investment or sales, we'll tailor the visualisation to its purpose."
+        },
+        "design": {
+          "title": "Design",
+          "body": "We establish viewpoints, materials, lighting and style before production begins, ensuring everyone is aligned from the outset."
+        },
+        "create": {
+          "title": "Create",
+          "body": "We create photorealistic renders, animations and supporting visuals, refining every detail until the design is ready for presentation."
+        },
+        "deliver": {
+          "title": "Deliver",
+          "body": "Receive presentation-ready visuals in all required formats, with revisions included and support through to final approval."
+        }
+      }
+    },
+    "cta": {
+      "title": "Ready to bring your development to life?",
+      "body": "Tell us about your project. We'll tell you exactly what it needs.",
+      "button": "Start Your Project",
+      "call": "Or call us: {{phone}}"
+    }
+  },
+  "invest": {
+    "hero": {
+      "eyebrow": "وەبەرهێنان لەگەڵ Opulent Property Group",
+      "title": "لەگەڵ گەشەپێدەرانی شارەزا وەبەرهێنان بکە.",
+      "body": "We partner with a select group of investors to acquire, plan and deliver property development opportunities — without interest-bearing debt."
+    },
+    "who": {
+      "eyebrow": "Who You're Investing With",
+      "name": "Rebwar Waladbaigi",
+      "role": "Founder & Operating Lead, Opulent Property Group",
+      "body": "Rebwar has 11 years of experience across quantity surveying, development management, planning and construction consultancy — including roles advising development lenders and managing large commercial portfolios. He founded OPG in 2018 with a clear conviction: that property development could be done differently — without interest-bearing debt, and with full alignment between investors and developers.",
+      "cta": "Connect on LinkedIn"
+    },
+    "why": {
+      "title": "Why investors choose OPG",
+      "cards": {
+        "planning": {
+          "title": "Planning-Led Strategy",
+          "body": "We create value by identifying planning opportunities before the wider market."
+        },
+        "asset": {
+          "title": "Asset-Backed Projects",
+          "body": "Capital is deployed into carefully selected property developments with tangible underlying assets."
+        },
+        "aligned": {
+          "title": "Aligned Interests",
+          "body": "We invest alongside our partners wherever possible, ensuring our interests remain aligned."
+        },
+        "selective": {
+          "title": "Selective Opportunities",
+          "body": "We prioritise quality over quantity and pursue only projects that meet our investment criteria."
+        }
+      }
+    },
+    "philosophy": {
+      "title": "Our investment philosophy",
+      "body": "We believe successful property investment begins long before construction starts. Through careful site selection, planning expertise and strong project management, we focus on creating value at every stage of the development lifecycle.\n\nRather than pursuing volume, we concentrate on projects where our experience and network can make the greatest difference."
+    },
+    "partners": {
+      "eyebrow": "Our Partners",
+      "title": "Who we work with",
+      "lead": "We typically work with:",
+      "chips": {
+        "hnwi": "High-net-worth individuals",
+        "family": "Family offices",
+        "business": "Business owners",
+        "professional": "Professional investors",
+        "property": "Property professionals",
+        "overseas": "Overseas investors (where appropriate)"
+      }
+    },
+    "strategies": {
+      "value": {
+        "eyebrow": "Short-Term Value Creation",
+        "title": "Acquire. Create Value. Exit.",
+        "subtitle": "Investment Strategy I — Value Creation",
+        "body": "We acquire underperforming residential and commercial assets where value can be created through planning, refurbishment, active asset management and disciplined project delivery before disposal.",
+        "points": {
+          "p1": "Asset-backed acquisitions only",
+          "p2": "No speculative planning dependency",
+          "p3": "Value created through active management",
+          "p4": "Residential and Commercial Assets",
+          "p5": "Short to medium-term investment horizon",
+          "p6": "Opportunities offered selectively"
+        },
+        "cta": "Join Priority Waitlist"
+      },
+      "hold": {
+        "eyebrow": "Long-Term Income & Hold",
+        "title": "Acquire. Create Value. Hold.",
+        "subtitle": "Investment Strategy II — Income & Hold",
+        "body": "We acquire underperforming residential, commercial and care assets where active asset management, refurbishment and planning can create long-term value. Rather than disposing of completed projects, selected assets are retained to generate sustainable rental income while benefiting from long-term capital growth.",
+        "points": {
+          "p1": "Value-add acquisitions with long-term ownership",
+          "p2": "Planning and refurbishment-led value creation",
+          "p3": "Residential, commercial and care assets",
+          "p4": "Sustainable rental income"
+        },
+        "cta": "Join Priority Waitlist"
+      }
+    },
+    "process": {
+      "title": "Our Investment Process",
+      "footnote": "Registering your interest does not guarantee access to future opportunities or constitute an offer of investment.",
+      "steps": {
+        "s1": {
+          "title": "Register Interest",
+          "body": "Complete our enquiry form and tell us a little about yourself and your investment objectives. Every submission is reviewed personally."
+        },
+        "s2": {
+          "title": "Initial Conversation",
+          "body": "If we believe there may be a suitable fit, we'll arrange a confidential introductory call to discuss your experience, objectives and our approach."
+        },
+        "s3": {
+          "title": "Due Diligence",
+          "body": "Where appropriate, prospective investment partners receive detailed project information, legal documentation and any applicable disclosures for independent review."
+        },
+        "s4": {
+          "title": "Future Opportunities",
+          "body": "When suitable opportunities become available, eligible individuals on our priority list may be contacted to discuss participation, subject to availability and applicable requirements."
+        }
+      }
+    },
+    "notice": "This website is provided for general information purposes only. Nothing on this website constitutes, or should be construed as, investment advice, financial advice, tax advice, legal advice or any other form of regulated professional advice. Nothing on this website should be interpreted as a financial promotion where UK law restricts such communications.\n\nRegistering an expression of interest via this website does not create any obligation, entitlement or contractual right to participate in any investment opportunity. Investment opportunities, where made available, are only offered where legally permitted to do so, exclusively to individuals who have qualified as sophisticated investors or high net worth individuals under applicable legislation. Eligibility and suitability assessment will be required.\n\nCapital is at risk. You may receive back less than you invest. Past performance is not a reliable indicator of future results and should not be relied upon as such.\n\nOpulent Property Group Ltd (Company Registration No. 11585965, Registered in England and Wales) is not authorised or regulated by the Financial Conduct Authority.",
+    "form": {
+      "badge": "Rounds Are Closed",
+      "lead": "Places on the priority list are offered selectively. Complete the form below and we will be in touch if there is a suitable fit.",
+      "title": "Register Your Interest",
+      "intro": "Complete the form to join our pre-qualification list. When a suitable round opens, eligible individuals will be contacted in order of registration."
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "با لەسەر پڕۆژەکەت قسە بکەین.",
+      "eyebrow": "پەیوەندیمان پێوە بکە",
+      "body": "Whether you're a landowner, developer, investor or business owner, we'd welcome the opportunity to discuss your project.\n\nWe take on a limited number of instructions, allowing us to give every client the attention, expertise and commitment they deserve."
+    },
+    "form": {
+      "title": "پەیامێکمان بۆ بنێرە",
+      "sub": "هەوڵ دەدەین لە ماوەی یەک ڕۆژی کاردا وەڵام بدەینەوە."
+    },
+    "info": {
+      "title": "زانیاری پەیوەندی",
+      "email_label": "ئیمەیڵ",
+      "phone_label": "تەلەفۆن",
+      "phone_value": "+44 783 164 5585 · Monday to Saturday, 8am to 6pm GMT",
+      "whatsapp_label": "واتساپ",
+      "whatsapp_value": "Typically the quickest way to speak with our team.",
+      "map_note": "Office — Birmingham, England — Meetings by appointment only",
+      "follow": "فۆڵۆومان بکە"
+    }
+  },
+  "forms": {
+    "contact": {
+      "full_name": "Full Name",
+      "full_name_ph": "Your full name",
+      "email": "Email Address",
+      "email_ph": "your@email.com",
+      "phone": "Phone Number",
+      "phone_ph": "+44 7xxx xxxxxx",
+      "enquiry": "Nature of Enquiry",
+      "enquiry_ph": "Please select…",
+      "enquiry_options": {
+        "general": "General enquiry",
+        "landowner": "Landowner / site",
+        "investor": "Investment",
+        "developer": "Development consultancy",
+        "care": "Care sector",
+        "design": "Design Studio"
+      },
+      "message": "Your Message",
+      "message_ph": "How can we help you?",
+      "submit": "ناردنی داواکاری"
+    },
+    "care": {
+      "full_name": "Full Name",
+      "full_name_ph": "Your name",
+      "phone": "Contact Number",
+      "phone_ph": "+44 7xxx xxxxxx",
+      "email": "Email Address",
+      "email_ph": "your@email.com",
+      "role": "I am a…",
+      "role_ph": "Please select…",
+      "role_options": {
+        "operator": "Care operator / provider",
+        "investor": "Investor",
+        "landowner": "Landowner",
+        "other": "Other"
+      },
+      "requirements": "Your Requirements",
+      "requirements_ph": "Describe your property requirements or investment goals...",
+      "submit": "ناردنی داواکاری"
+    },
+    "invest": {
+      "full_name": "Full Name",
+      "full_name_ph": "Your full name",
+      "email": "Email Address",
+      "email_ph": "Your email address",
+      "phone": "Phone Number",
+      "phone_ph": "Your phone number",
+      "capital": "Approximate investable capital",
+      "capital_ph": "Please select…",
+      "capital_options": {
+        "under_25": "Under £25,000",
+        "25_50": "£25,000 – £50,000",
+        "50_100": "£50,000 – £100,000",
+        "100_250": "£100,000 – £250,000",
+        "250_plus": "£250,000+"
+      },
+      "confirm": "I confirm I am",
+      "confirm_ph": "Please select…",
+      "confirm_options": {
+        "sophisticated": "A self-certified sophisticated investor",
+        "hnwi": "A high net worth individual",
+        "other": "Other"
+      },
+      "hear": "How did you hear about us",
+      "hear_ph": "Please select…",
+      "hear_options": {
+        "referral": "Referral",
+        "linkedin": "LinkedIn",
+        "search": "Search engine",
+        "other": "Other"
+      },
+      "ack": "I understand this is an expression of interest only and not a commitment or offer to invest",
+      "submit": "ناردنی دەربڕینی ئارەزوو"
+    }
+  },
+  "not_found": {
+    "page_title": "٤٠٤",
+    "page_subtitle": "پەڕە نەدۆزرایەوە",
+    "page_description": "ئەو پەڕەیەی دەیکەویتەوە بوونی نییە.",
+    "go_home": "گەڕانەوە بۆ سەرەکی"
+  },
+  "error": {
+    "page_title": "هەڵە",
+    "page_subtitle": "هەڵەیەک ڕوویدا",
+    "error_details": "لە کاتی چارەسەرکردنی داواکارییەکەت هەڵەیەک ڕوویدا. تکایە دواتر هەوڵ بدەرەوە.",
+    "go_home": "گەڕانەوە بۆ سەرەکی"
+  }
+}

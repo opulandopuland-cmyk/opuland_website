@@ -1,0 +1,26 @@
+export const QUERY_KEYs = {
+  NAV: "nav",
+  STATS: "stats",
+  PROJECTS_STATS: "projects-stats",
+  AUDIENCE_PATHWAYS: "audience-pathways",
+  WHAT_WE_DO: "what-we-do",
+  CONSULTANCY_SERVICES: "consultancy-services",
+  ADVISORY_SERVICES: "advisory-services",
+  DEVELOPMENT_ACQUISITION: "development-acquisition",
+  FEATURES: "features",
+  CARE_AUDIENCE: "care-audience",
+  CARE_JOURNEY: "care-journey",
+  PROJECTS: "projects",
+  TEAM_EXPERIENCE: "team-experience",
+  DESIGN_SERVICES: "design-services",
+  DESIGN_PROCESS: "design-process",
+  PORTFOLIO: "portfolio",
+  WHY_INVEST: "why-invest",
+  PARTNERS: "partners",
+  INVEST_STRATEGIES: "invest-strategies",
+  INVEST_PROCESS: "invest-process",
+  FOOTER_LINKS: "footer-links",
+  CONTACT_INFO: "contact-info",
+} as const;
+
+export type QUERY_KEYsType = (typeof QUERY_KEYs)[keyof typeof QUERY_KEYs];
