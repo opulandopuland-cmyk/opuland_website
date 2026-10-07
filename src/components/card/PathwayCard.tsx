@@ -25,7 +25,9 @@ const PathwayCard = ({
       <span className="text-yellow text-xs font-semibold uppercase tracking-[0.2em]">
         {t(eyebrowKey)}
       </span>
-      <h3 className="text-xl md:text-2xl font-bold">{t(titleKey)}</h3>
+      <h3 className="text-xl md:text-2xl font-bold capitalize">
+        {t(titleKey)}
+      </h3>
       <p className="text-sm md:text-base text-primary/70 leading-relaxed flex-1">
         {t(bodyKey)}
       </p>

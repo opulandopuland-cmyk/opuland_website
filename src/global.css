@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Hepta+Slab:wght@1..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Hepta+Slab:wght@1..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://cdn.jsdelivr.net/npm/@fontsource-variable/cairo@5.3.0/index.css");
+@import url("https://cdn.jsdelivr.net/npm/@fontsource-variable/noto-kufi-arabic@5.3.0/index.css");
 @import url("https://fonts.cdnfonts.com/css/sf-pro-display");
 @import "tailwindcss";
 @import "tw-animate-css";
@@ -8,30 +10,6 @@
 @plugin "tailwindcss-animate";
 
 @custom-variant dark (&:is(.dark *));
-
-@font-face {
-  font-family: "rabar";
-  src: url("/fonts/Rabar_039.woff") format("woff");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "lenos";
-  src: url("/fonts/Lenos-Regular.woff2") format("woff2");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "mizan";
-  src: url("/fonts/MizanAR+LT-Regular.woff2") format("woff2");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
 
 ::view-transition-old(root),
 ::view-transition-new(root) {
@@ -42,8 +20,8 @@
 :root {
   --font-dm-sans: "DM Sans", sans-serif;
   --font-hepta-slab: "Hepta Slab", serif;
-  --font-lenos: "lenos", sans-serif;
-  --font-mizan: "mizan", sans-serif;
+  --font-cairo: "Cairo Variable", sans-serif;
+  --font-noto-kufi-arabic: "Noto Kufi Arabic Variable", sans-serif;
 
   --radius: 0.625rem;
 
@@ -109,9 +87,8 @@
 @theme inline {
   --font-dm-sans: var(--font-dm-sans);
   --font-hepta-slab: var(--font-hepta-slab);
-  --font-lenos: var(--font-lenos);
-  --font-mizan: var(--font-mizan);
-  --font-rabar: "rabar", sans-serif;
+  --font-cairo: var(--font-cairo);
+  --font-noto-kufi-arabic: var(--font-noto-kufi-arabic);
 
   --radius-sm: calc(var(--radius) - 4px);
   --radius-md: calc(var(--radius) - 2px);
@@ -220,7 +197,7 @@
     @apply font-dm-sans;
   }
   .kurdish_font {
-    @apply font-lenos;
+    @apply font-noto-kufi-arabic;
   }
 }
 
