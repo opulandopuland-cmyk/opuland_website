@@ -108,47 +108,47 @@
       "cta": "هەموو خزمەتگوزارییەکان ببینە",
       "cards": {
         "development": {
-          "title": "Development & Acquisition",
-          "body": "We identify, acquire and develop land and property for investors, landowners and strategic partners. Off-market. Selective. Disciplined."
+          "title": "گەشەپێدان و کڕین",
+          "body": "زەوی و خانووبەرە دیاری دەکەین، دەیکڕین و گەشەی پێدەدەین بۆ وەبەرهێنەران، خاوەن زەوییەکان و هاوبەشە ستراتیژییەکان. دەرەوەی بازاڕ. هەڵبژێردراو. بە دیسیپلین."
         },
         "planning": {
-          "title": "Planning & Construction Consultancy",
-          "body": "Planning applications, contractor procurement, quantity surveying, cost management and lender drawdown reporting — delivered by people who have done it, not just advised on it."
+          "title": "ڕاوێژکاری پلاندانان و بیناسازی",
+          "body": "داواکاری پلاندانان، دابینکردنی پیمانکار، ڕووپێوی بڕ، بەڕێوەبردنی تێچوون و ڕاپۆرتی ورگرتنی پارە بۆ بانک — لەلایەن کەسانێکەوە جێبەجێ دەکرێت کە خۆیان ئەنجامیانداوە، نەک تەنها ڕاوێژیان پێکردبێت."
         },
         "care": {
-          "title": "Care Sector Development",
-          "body": "Specialist advisory for care homes, supported living and extra care developments. We connect operators with suitable sites, introduce property owners to established care providers, and provide end-to-end support from site identification through to planning approval."
+          "title": "گەشەپێدانی کەرتی چاودێری",
+          "body": "ڕاوێژکاری پسپۆڕانە بۆ ماڵی چاودێری، ژیانی پشتگیریکراو و پڕۆژەکانی چاودێری زیادە. بەرپرسانی چاودێری بە شوێنی گونجاو دەگەیەنین، خاوەن خانووبەرە دەناسێنین بە دابینکەرانی چاودێری جێگیر، و پشتگیری تەواو دەکەین لە دیاریکردنی شوێنەوە تا پەسەندکردنی پلاندانان."
         },
         "design": {
-          "title": "Design Studio",
-          "body": "Architectural visualisation, CGI renders, interior design and development branding. We bring ideas to life long before construction begins."
+          "title": "ستودیۆی دیزاین",
+          "body": "بینراوکردنی تەلارسازی، وێنەی CGI، دیزاینی ناوەوە و ناسنامەی بازرگانیی پڕۆژەکان. بیرۆکەکان زۆر پێش دەستپێکردنی بیناسازی دەهێنینە ژیانەوە."
         }
       }
     },
     "founder": {
-      "eyebrow": "Founded By",
+      "eyebrow": "دامەزرێنەر",
       "name": "Rebwar Waladbaigi",
-      "role": "Founder & Operating Lead, Opulent Property Group",
-      "body": "Rebwar has 11 years of experience across quantity surveying, development management, planning and construction consultancy — including roles advising development lenders and managing large commercial portfolios. He founded OPG in 2018 with a clear conviction: that property development could be done differently — without interest-bearing debt, and with full alignment between investors and developers.",
-      "cta": "Connect on LinkedIn"
+      "role": "دامەزرێنەر و سەرکردەی کارگێڕی، Opulent Property Group",
+      "body": "ڕێبوار ١١ ساڵ ئەزموونی هەیە لە ڕووپێوی بڕ، بەڕێوەبردنی گەشەپێدان، پلاندانان و ڕاوێژکاری بیناسازی — لەگەڵ ئەو ڕۆڵانەی ڕاوێژی بە بانکە گەشەپێدەرەکان داوە و پۆرتفۆلیۆی گەورەی بازرگانی بەڕێوەبردووە. لە ساڵی ٢٠١٨ OPG ی دامەزراند بە بڕوایەکی ڕوون: ئەوەی گەشەپێدانی خانووبەرە دەکرێت بە شێوازێکی جیاواز ئەنجام بدرێت — بێ قەرزی سوودار، و بە هاوتەریبی تەواو لە نێوان وەبەرهێنەران و گەشەپێدەران.",
+      "cta": "پەیوەندی بکە لە LinkedIn"
     },
     "about_opg": {
-      "eyebrow": "About Opulent Property Group",
-      "title": "Over a decade of execution. Not just advice.",
-      "body": "Founded in 2018, OPG is a Birmingham-based property development and advisory business. Our background spans planning, quantity surveying, development management and construction consultancy.\n\nWe have contributed to projects up to £42m in value across residential, commercial, care and mixed-use development. We work with a select group of investors and landowners, applying the same commercial discipline to every instruction.",
-      "cta": "Learn More About Us",
+      "eyebrow": "دەربارەی Opulent Property Group",
+      "title": "زیاتر لە دە ساڵ جێبەجێکردن. نەک تەنها ڕاوێژ.",
+      "body": "OPG لە ساڵی ٢٠١٨ دامەزراوە و کۆمپانیایەکی گەشەپێدان و ڕاوێژکاری خانووبەرەیە لە بیرمینگهام. ئەزموونەکانمان پلاندانان، ڕووپێوی بڕ، بەڕێوەبردنی گەشەپێدان و ڕاوێژکاری بیناسازی دەگرێتەوە.\n\nبەشداربووین لە پڕۆژەگەلێک تا بەهای £٤٢ ملیۆن لە گەشەپێدانی نیشتەجێبوون، بازرگانی، چاودێری و فرەبەکارهێنان. لەگەڵ کۆمەڵێکی هەڵبژێردراو لە وەبەرهێنەران و خاوەن زەوییەکان کار دەکەین و هەمان دیسیپلینی بازرگانی لەسەر هەموو داواکارییەک جێبەجێ دەکەین.",
+      "cta": "زیاتر دەربارەمان بزانە",
       "features": {
         "off_market": {
-          "title": "Off-Market Access",
-          "body": "Sourced through relationships, not portals."
+          "title": "دەستڕاگەیشتن بە دەرەوەی بازاڕ",
+          "body": "لە ڕێگەی پەیوەندییەکانەوە دەدۆزرێتەوە، نەک پۆرتاڵەکان."
         },
         "execution": {
-          "title": "Execution-Led",
-          "body": "We plan, procure and deliver. Not just advise."
+          "title": "جێبەجێکردن-بنەما",
+          "body": "پلان دادەنێین، دابین دەکەین و جێبەجێ دەکەین. نەک تەنها ڕاوێژ."
         },
         "interest_free": {
-          "title": "Interest-Free",
-          "body": "Equity-based structures. No interest-bearing debt."
+          "title": "بێ سوو",
+          "body": "پێکهاتەی سەرمایە-بنەما. بێ قەرزی سوودار."
         }
       }
     },
@@ -160,18 +160,18 @@
   "about": {
     "founder": {
       "name": "Rebwar Waladbaigi",
-      "role": "Founder & Operating Lead, Opulent Property Group",
-      "cta": "Connect on LinkedIn"
+      "role": "دامەزرێنەر و سەرکردەی کارگێڕی، Opulent Property Group",
+      "cta": "پەیوەندی بکە لە LinkedIn"
     },
     "statement": {
       "eyebrow": "ئێمە کێین",
       "title": "گەشە دەدەین. ڕاوێژ دەدەین. وەبەرهێنان دەکەین.",
-      "body": "Combining planning, development, quantity surveying and investment expertise to help landowners, investors and businesses unlock the full potential of land and property."
+      "body": "شارەزایی پلاندانان، گەشەپێدان، ڕووپێوی بڕ و وەبەرهێنان تێکەڵ دەکەین بۆ ئەوەی یارمەتیی خاوەن زەوی، وەبەرهێنەر و بازرگانان بدەین تا توانای تەواوی زەوی و خانووبەرە بکەنەوە."
     },
     "story": {
-      "eyebrow": "Our Story",
-      "title": "Built through experience. Driven by execution.",
-      "body": "Opulent Property Group was founded on the belief that the best property advice comes from people who have delivered projects themselves. Our background spans planning, quantity surveying, development management, construction consultancy and property investment, giving clients practical advice grounded in real-world experience.\n\nOver the past decade, we have contributed to projects up to £42m in value across residential, commercial, care and mixed-use development. Whether supporting landowners through planning, advising investors on acquisitions or managing developments from concept to completion, we apply the same commercial discipline to every instruction.\n\nToday, OPG works with landowners, developers, investors and businesses across England, combining technical expertise with long-term thinking to unlock the full potential of land and property."
+      "eyebrow": "چیرۆکەکەمان",
+      "title": "لەسەر ئەزموون بنیادنراوە. بە جێبەجێکردن بەڕێوەدەچێت.",
+      "body": "Opulent Property Group لەسەر ئەو بڕوایە دامەزراوە کە باشترین ڕاوێژی خانووبەرە لەو کەسانەوە دێت کە خۆیان پڕۆژەکانیان جێبەجێکردووە. ئەزموونەکانمان پلاندانان، ڕووپێوی بڕ، بەڕێوەبردنی گەشەپێدان، ڕاوێژکاری بیناسازی و وەبەرهێنانی خانووبەرە دەگرێتەوە، کە ڕاوێژێکی کرداری بە کڕیاران دەدات لەسەر بنەمای ئەزموونی ڕاستەقینە.\n\nلە دەیەی ڕابردوودا بەشداربووین لە پڕۆژەگەلێک تا بەهای £٤٢ ملیۆن لە گەشەپێدانی نیشتەجێبوون، بازرگانی، چاودێری و فرەبەکارهێنان. جا پشتگیریی خاوەن زەوییەکان بکەین لە پلاندانان، ڕاوێژ بە وەبەرهێنەران بدەین لەسەر کڕین، یان گەشەپێدانەکان لە بیرۆکەوە تا تەواوکردن بەڕێوە ببەین، هەمان دیسیپلینی بازرگانی لەسەر هەموو داواکارییەک جێبەجێ دەکەین.\n\nئەمڕۆ OPG لەگەڵ خاوەن زەوی، گەشەپێدەر، وەبەرهێنەر و بازرگانان لە سەرانسەری ئینگلتەرا کار دەکات، شارەزایی تەکنیکی تێکەڵ دەکات لەگەڵ بیرکردنەوەی درێژخایەن بۆ کردنەوەی توانای تەواوی زەوی و خانووبەرە."
     },
     "mission": "OPG هەیە بۆ نیشاندانی ئەوەی گەشەپێدانی خانووبەرە دەکرێت بەبێ قەرزی سوودار — و پێکهاتەی وەبەرهێنانی ئەخلاقی و هاوبەشی دەتوانێت باشتر بێت لە شێوازە باوەکان کاتێک لەگەڵ شارەزایی ڕاستەقینەی گەشەپێدان تێکەڵ دەبێت."
   },
@@ -179,157 +179,157 @@
     "hero": {
       "eyebrow": "چی دەکەین",
       "title": "خزمەتگوزاری پیشەیی خانووبەرە",
-      "body": "Delivered by practitioners, not generalists. Every instruction handled with the same rigour we apply to our own investments."
+      "body": "لەلایەن کارامەکانەوە جێبەجێ دەکرێت، نەک گشتییەکان. هەموو داواکارییەک بە هەمان وردبینی بەڕێوە دەبرێت کە لەسەر وەبەرهێنانەکانی خۆمان جێبەجێی دەکەین."
     },
     "development": {
-      "eyebrow": "Development & Acquisition",
-      "title": "We source off-market.\nWe structure without interest.",
+      "eyebrow": "گەشەپێدان و کڕین",
+      "title": "لە دەرەوەی بازاڕ دەیدۆزینەوە.\nبێ سوو پێکی دەهێنین.",
       "sellers": {
-        "eyebrow": "For Sellers & Landowners",
-        "title": "Bring your property to us.",
-        "body": "We are actively acquiring land, commercial buildings and residential assets across Birmingham and the Midlands. We move quickly, transact with certainty, and don't waste your time. We are particularly interested in sites and assets not yet on the open market — motivated sellers, probate, vacant and distressed assets welcome.",
+        "eyebrow": "بۆ فرۆشیاران و خاوەن زەوی",
+        "title": "خانووبەرەکەت بهێنە بۆ ئێمە.",
+        "body": "بە چالاکی زەوی، بیناکانی بازرگانی و سامانی نیشتەجێبوون دەکڕین لە بیرمینگهام و ناوەڕاستی ئینگلتەرا. خێرا دەجوڵێین، بە دڵنیایی مامەڵە دەکەین و کاتت بەفیڕۆ نادەین. بەتایبەت حەز بە ئەو شوێن و سامانانە دەکەین کە هێشتا نەچوونەتە بازاڕی کراوە — فرۆشیارانی پەلەکار، میرات، بەتاڵ و سامانی لەدەستچوو بەخێربێن.",
         "points": {
-          "p1": "Unconditional and conditional purchases considered",
-          "p2": "Probate, vacant, and distressed assets welcome",
-          "p3": "Confidential, no-obligation conversations"
+          "p1": "کڕینی مەرجدار و بێ مەرج لەبەرچاو دەگیرێت",
+          "p2": "میرات، بەتاڵ و سامانی لەدەستچوو بەخێربێن",
+          "p3": "گفتوگۆی نهێنی و بێ پابەندی"
         },
-        "cta": "Discuss Your Property"
+        "cta": "گفتوگۆ لەسەر خانووبەرەکەت"
       },
       "investors": {
-        "eyebrow": "For Investors",
-        "title": "We don't often open to new investors.",
-        "body": "Our acquisition pipeline is built on off-market relationships and proprietary deal flow. We identify deeply discounted and structurally undervalued assets, execute disciplined refurbishment programmes, and exit or hold for income. Our investor base is small by design.",
+        "eyebrow": "بۆ وەبەرهێنەران",
+        "title": "زۆرجار بۆ وەبەرهێنەری نوێ نایکەینەوە.",
+        "body": "ڕێڕەوی کڕینمان لەسەر پەیوەندییەکانی دەرەوەی بازاڕ و دەرفەتی تایبەتی خۆمان بنیادنراوە. سامانی بە زۆر کەمکراوە و بە شێوەیەکی پێکهاتەیی کەمنرخێنراو دیاری دەکەین، بەرنامەی چاککردنەوەی بە دیسیپلین جێبەجێ دەکەین، و دەیفرۆشین یان بۆ داهات دەیهێڵینەوە. بنکەی وەبەرهێنەرانمان بە ئەنقەست بچووکە.",
         "points": {
-          "p1": "Off-market and below-market acquisitions only",
-          "p2": "Equity-based structures — no interest-bearing debt",
-          "p3": "Profit-sharing on a deal-by-deal basis",
-          "p4": "Investors are accepted by pre-qualification only. Minimum investable capital of £100,000 applies."
+          "p1": "تەنها کڕینی دەرەوەی بازاڕ و خوار نرخی بازاڕ",
+          "p2": "پێکهاتەی سەرمایە-بنەما — بێ قەرزی سوودار",
+          "p3": "دابەشکردنی قازانج لەسەر بنەمای هەر مامەڵەیەک",
+          "p4": "وەبەرهێنەران تەنها بە پێشپشکنین وەردەگیرێن. کەمترین سەرمایەی وەبەرهێنانی £١٠٠,٠٠٠ پێویستە."
         },
-        "cta": "Register Your Interest"
+        "cta": "ئارەزووی خۆت تۆمار بکە"
       }
     },
     "consultancy": {
-      "eyebrow": "Planning & Construction Consultancy",
-      "title": "The technical backbone behind successful developments.",
-      "intro": "We provide comprehensive consultancy to developers, contractors, and funding institutions across the full development lifecycle. Whether you need a QS from day one or a bank monitor from drawdown, we have the experience to deliver.",
+      "eyebrow": "ڕاوێژکاری پلاندانان و بیناسازی",
+      "title": "ڕەگەزی تەکنیکیی پشت گەشەپێدانە سەرکەوتووەکان.",
+      "intro": "ڕاوێژکاریی گشتگیر دابین دەکەین بۆ گەشەپێدەران، پیمانکاران و دامەزراوە دارایییەکان لە سەرانسەری ژیانی گەشەپێدان. جا لە ڕۆژی یەکەمەوە QS ت پێویست بێت یان چاودێری بانک لە ورگرتنی پارەوە، ئەزموونی ئەوەمان هەیە کە جێبەجێی بکەین.",
       "cards": {
         "planning": {
-          "title": "Planning Applications",
-          "body": "Preparation, coordination and submission of full planning applications, prior approvals, and change of use consents. Residential, commercial, and mixed-use."
+          "title": "داواکاری پلاندانان",
+          "body": "ئامادەکردن، هەماهەنگی و پێشکەشکردنی داواکاری تەواوی پلاندانان، پەسەندکردنی پێشوەختە و ڕەزامەندی گۆڕینی بەکارهێنان. نیشتەجێبوون، بازرگانی و فرەبەکارهێنان."
         },
         "pre_app": {
-          "title": "Pre-Application Advice",
-          "body": "Strategic guidance before submission. We assess viability, identify risk, and engage with local planning authorities on your behalf."
+          "title": "ڕاوێژی پێش داواکاری",
+          "body": "ڕێنمایی ستراتیژی پێش پێشکەشکردن. گونجاوی دارایی هەڵدەسەنگێنین، مەترسی دیاری دەکەین و لە جیاتی تۆ لەگەڵ دەسەڵاتە ناوخۆییەکانی پلاندانان پەیوەندی دەکەین."
         },
         "qs": {
-          "title": "Quantity Surveying & Cost Management",
-          "body": "Detailed cost plans, bills of quantities, tender analysis and cost reporting. From feasibility through to final account."
+          "title": "ڕووپێوی بڕ و بەڕێوەبردنی تێچوون",
+          "body": "پلانی تێچووی وردەکاری، بیلی بڕەکان، شیکردنەوەی مناقەسە و ڕاپۆرتی تێچوون. لە لێکۆڵینەوەی گونجاوییەوە تا هەژماری کۆتایی."
         },
         "procurement": {
-          "title": "Contractor Procurement",
-          "body": "Tender preparation, contractor selection, contract negotiation and appointment. We protect your interests throughout."
+          "title": "دابینکردنی پیمانکار",
+          "body": "ئامادەکردنی مناقەسە، هەڵبژاردنی پیمانکار، دانوستانی گرێبەست و دامەزراندن. لە سەرانسەری پرۆسەکەدا بەرژەوەندییەکانت دەپارێزین."
         },
         "contract": {
-          "title": "Contract Administration",
-          "body": "Acting as contract administrator or employer's agent on JCT and bespoke contracts. Valuations, instructions, and dispute avoidance."
+          "title": "بەڕێوەبردنی گرێبەست",
+          "body": "کارکردن وەک بەڕێوەبەری گرێبەست یان نوێنەری کارفەرما لەسەر گرێبەستی JCT و گرێبەستی تایبەت. نرخاندن، ڕێنمایی و خۆپاراستن لە ناکۆکی."
         },
         "bank": {
-          "title": "Bank Monitoring & Lender Reporting",
-          "body": "Independent monitoring for development lenders. Progress reports, cost-to-complete assessments, and draw-down certification."
+          "title": "چاودێریکردنی بانک و ڕاپۆرتی قەرزدەر",
+          "body": "چاودێریکردنی سەربەخۆ بۆ بانکە گەشەپێدەرەکان. ڕاپۆرتی پێشکەوتن، هەڵسەنگاندنی تێچووی تەواوکردن و پشتڕاستکردنەوەی ورگرتنی پارە."
         }
       }
     },
     "advisory": {
-      "eyebrow": "Property Advisory",
-      "title": "Supporting clients at every stage of the property journey.",
+      "eyebrow": "ڕاوێژکاری خانووبەرە",
+      "title": "پشتگیریی کڕیاران لە هەموو قۆناغێکی گەشتی خانووبەرە.",
       "cards": {
         "sourcing": {
-          "title": "Property Sourcing",
-          "body": "We identify and acquire properties on behalf of clients — residential, commercial, and investment. On and off-market."
+          "title": "دۆزینەوەی خانووبەرە",
+          "body": "لە جیاتی کڕیاران خانووبەرە دیاری دەکەین و دەیکڕین — نیشتەجێبوون، بازرگانی و وەبەرهێنان. لە بازاڕ و دەرەوەی بازاڕ."
         },
         "lease": {
-          "title": "Commercial Lease Review",
-          "body": "Expert review of commercial leases and contracts. We identify risk, negotiate terms, and protect your position."
+          "title": "پێداچوونەوەی بەندی کرێی بازرگانی",
+          "body": "پێداچوونەوەی شارەزایانە بۆ بەندەکانی کرێ و گرێبەستی بازرگانی. مەترسییەکان دیاری دەکەین، مەرجەکان دانوستان لەسەر دەکەین و پێگەکەت دەپارێزین."
         },
         "valuations": {
-          "title": "Property Valuations & Appraisals",
-          "body": "Development appraisals and commercial valuations. With or without planning permission. Residual and comparable methodology."
+          "title": "نرخاندن و هەڵسەنگاندنی خانووبەرە",
+          "body": "هەڵسەنگاندنی گەشەپێدان و نرخاندنی بازرگانی. بە مۆڵەتی پلاندانان یان بێ مۆڵەت. میتۆدی ماوە و بەراورد."
         },
         "liaison": {
-          "title": "Planning Authority Liaison",
-          "body": "Navigating enforcement, compliance queries, planning disputes and local authority correspondence on your behalf."
+          "title": "پەیوەندی لەگەڵ دەسەڵاتی پلاندانان",
+          "body": "بەڕێوەبردنی جێبەجێکردن، پرسیارە پەیوەندیدارەکان بە پابەندبوون، ناکۆکییەکانی پلاندانان و نامەگۆڕینەوەی دەسەڵاتی ناوخۆیی لە جیاتی تۆ."
         },
         "project_mgmt": {
-          "title": "Project & Development Management",
-          "body": "Managing projects from acquisition to completion, coordinating consultants, contractors and budgets to protect your investment."
+          "title": "بەڕێوەبردنی پڕۆژە و گەشەپێدان",
+          "body": "بەڕێوەبردنی پڕۆژە لە کڕینەوە تا تەواوکردن، هەماهەنگیکردنی ڕاوێژکاران، پیمانکاران و بودجە بۆ پاراستنی وەبەرهێنانەکەت."
         },
         "due_diligence": {
-          "title": "Investment Due Diligence",
-          "body": "Commercial, planning and technical due diligence to support informed property and development acquisitions."
+          "title": "وردبینیی وەبەرهێنان",
+          "body": "وردبینیی بازرگانی، پلاندانان و تەکنیکی بۆ پشتگیریکردنی کڕینی ئاگایانەی خانووبەرە و گەشەپێدان."
         }
       }
     }
   },
   "care": {
     "hero": {
-      "eyebrow": "Care Home • Supported Living • Extra Care",
+      "eyebrow": "ماڵی چاودێری • ژیانی پشتگیریکراو • چاودێری زیادە",
       "title": "گەشەپێدان و وەبەرهێنان لە کەرتی چاودێری",
-      "body": "From identifying suitable development sites to securing planning permission, introducing operators and structuring investment, we deliver care sector projects from concept through to completion."
+      "body": "لە دیاریکردنی شوێنی گونجاوی گەشەپێدانەوە تا بەدەستهێنانی مۆڵەتی پلاندانان، ناساندنی بەرپرسانی چاودێری و پێکهێنانی وەبەرهێنان، پڕۆژەکانی کەرتی چاودێری لە بیرۆکەوە تا تەواوکردن جێبەجێ دەکەین."
     },
     "audience": {
       "operators": {
-        "eyebrow": "For Care Operators & Providers",
-        "title": "You Define. We Source. We Deliver.",
-        "body": "Whether you're expanding an existing portfolio or opening a new service, we act as your property and development partner. Tell us your preferred location, bed numbers, building type, budget and programme—we'll identify suitable opportunities, secure the site, manage planning and coordinate the development through to handover.",
+        "eyebrow": "بۆ بەرپرسان و دابینکەرانی چاودێری",
+        "title": "تۆ دیاری دەکەیت. ئێمە دەیدۆزینەوە. ئێمە جێبەجێی دەکەین.",
+        "body": "جا پۆرتفۆلیۆیەکی هەبوو فراوان بکەیت یان خزمەتگوزارییەکی نوێ بکەیتەوە، وەک هاوبەشی خانووبەرە و گەشەپێدانی تۆ کار دەکەین. شوێنی دڵخوازت، ژمارەی جێگا، جۆری بینا، بودجە و خشتەی کاتی خۆت پێمان بڵێ — دەرفەتی گونجاو دیاری دەکەین، شوێنەکە دەپارێزین، پلاندانان بەڕێوە دەبەین و گەشەپێدانەکە تا ڕادەستکردن هەماهەنگ دەکەین.",
         "points": {
-          "p1": "Brief-led site sourcing (on and off-market)",
-          "p2": "Planning, design and consultant management",
-          "p3": "Operator-led layouts and specifications",
-          "p4": "Development management through to handover"
+          "p1": "دۆزینەوەی شوێن بەپێی داواکاری (لە بازاڕ و دەرەوەی بازاڕ)",
+          "p2": "بەڕێوەبردنی پلاندانان، دیزاین و ڕاوێژکاران",
+          "p3": "ڕێکخستن و تایبەتمەندییەکان بەپێی بەرپرس",
+          "p4": "بەڕێوەبردنی گەشەپێدان تا ڕادەستکردن"
         }
       },
       "investors": {
-        "eyebrow": "For Investors",
-        "title": "Acquire. Create Value. Hold.",
-        "body": "Care and supported living assets offer some of the most resilient income profiles in the property market. Demand is structural, tenants are institutional, and leases are long. We identify, acquire and develop care sector assets on behalf of investors — then hold them for income or exit at a premium. Every investment is equity-based and interest-free.",
+        "eyebrow": "بۆ وەبەرهێنەران",
+        "title": "بکڕە. بەها دروست بکە. بیهێڵەرەوە.",
+        "body": "سامانی چاودێری و ژیانی پشتگیریکراو هەندێک لە بەرگەگرترین پڕۆفایلەکانی داهاتی هەیە لە بازاڕی خانووبەرە. داواکاری پێکهاتەییە، کرێچییەکان دامەزراوەیین و گرێبەستەکانی کرێ درێژن. سامانی کەرتی چاودێری لە جیاتی وەبەرهێنەران دیاری دەکەین، دەیکڕین و گەشەی پێدەدەین — پاشان بۆ داهات دەیهێڵینەوە یان بە نرخی بەرز دەیفرۆشین. هەموو وەبەرهێنانێک سەرمایە-بنەما و بێ سووە.",
         "points": {
-          "p1": "Value-add acquisitions with long-term ownership",
-          "p2": "Planning and refurbishment-led value creation",
-          "p3": "Long-term rental income and capital growth",
-          "p4": "Interest-free, equity-based investment structure"
+          "p1": "کڕینی بەهابەرز لەگەڵ خاوەندارێتی درێژخایەن",
+          "p2": "دروستکردنی بەها بە پلاندانان و چاککردنەوە",
+          "p3": "داهاتی کرێی درێژخایەن و گەشەی سەرمایە",
+          "p4": "پێکهاتەی وەبەرهێنانی بێ سوو و سەرمایە-بنەما"
         }
       }
     },
     "journey": {
-      "title": "Your Development Journey",
+      "title": "گەشتی گەشەپێدانی تۆ",
       "steps": {
         "s1": {
-          "title": "Tell Us What You Need",
-          "body": "Tell us your preferred location, capacity, operational requirements and timescales. We assess your brief and advise on the best delivery strategy."
+          "title": "پێمان بڵێ چیت پێویستە",
+          "body": "شوێنی دڵخواز، ظەرفیەت، پێداویستییە کارگێڕییەکان و خشتەی کاتی خۆت پێمان بڵێ. داواکارییەکەت هەڵدەسەنگێنین و باشترین ستراتیژیی جێبەجێکردنت پێشنیار دەکەین."
         },
         "s2": {
-          "title": "Site & Opportunity Matching",
-          "body": "We identify suitable on and off-market sites that match your brief. Every opportunity is assessed commercially, operationally and from a planning perspective."
+          "title": "گونجاندنی شوێن و دەرفەت",
+          "body": "شوێنی گونجاو لە بازاڕ و دەرەوەی بازاڕ دیاری دەکەین کە لەگەڵ داواکارییەکەت دەگونجێن. هەموو دەرفەتێک لە ڕووی بازرگانی، کارگێڕی و پلاندانانەوە هەڵدەسەنگێنرێت."
         },
         "s3": {
-          "title": "Acquisition & Planning",
-          "body": "We negotiate the acquisition, coordinate consultants and manage the planning process to create a clear route to delivery."
+          "title": "کڕین و پلاندانان",
+          "body": "دانوستان لەسەر کڕین دەکەین، ڕاوێژکاران هەماهەنگ دەکەین و پرۆسەی پلاندانان بەڕێوە دەبەین بۆ دروستکردنی ڕێگایەکی ڕوون بۆ جێبەجێکردن."
         },
         "s4": {
-          "title": "Development & Compliance",
-          "body": "We oversee design, procurement, planning conditions and construction management through to a completed, operator-ready asset."
+          "title": "گەشەپێدان و پابەندبوون",
+          "body": "چاودێری دیزاین، دابینکردن، مەرجەکانی پلاندانان و بەڕێوەبردنی بیناسازی دەکەین تا سامانێکی تەواوکراو و ئامادە بۆ بەرپرس."
         },
         "s5": {
-          "title": "Tenancy & Income",
-          "body": "Operators move into a completed facility. Investors benefit from long-term ownership while we continue to provide asset management support where required."
+          "title": "کرێ و داهات",
+          "body": "بەرپرسان دەچنە ناو دامەزراوەیەکی تەواوکراو. وەبەرهێنەران سوود لە خاوەندارێتی درێژخایەن وەردەگرن لە کاتێکدا ئێمە پشتگیریی بەڕێوەبردنی سامان بەردەوام دەکەین کاتێک پێویست بێت."
         }
       }
     },
     "form": {
-      "title": "Discuss Your Site",
-      "intro": "Whether you're a care operator planning your next development or an investor exploring opportunities in the care sector, we'd welcome the opportunity to speak. We take on a limited number of partnerships, ensuring every project receives our full commitment."
+      "title": "گفتوگۆ لەسەر شوێنەکەت بکە",
+      "intro": "جا بەرپرسی چاودێری بیت و پلانی گەشەپێدانی داهاتووت هەبێت یان وەبەرهێنەر بیت و دەرفەتەکانی کەرتی چاودێری بپشکنیت، دڵخۆش دەبین قسەت لەگەڵ بکەین. ژمارەیەکی سنووردار لە هاوبەشی وەردەگرین، بۆ ئەوەی هەموو پڕۆژەیەک پابەندبوونی تەواوی ئێمە وەربگرێت."
     },
-    "notice": "References to investment opportunities on this page are for general information only. Such opportunities are only available where legally permitted, exclusively to individuals who qualify as sophisticated investors or high net worth individuals. Eligibility and suitability checks apply. Capital is at risk. Nothing on this website constitutes investment, financial, tax or legal advice. Past performance is not a reliable indicator of future results."
+    "notice": "ئاماژەکان بە دەرفەتی وەبەرهێنان لەم پەڕەیەدا تەنها بۆ زانیاریی گشتین. ئەو دەرفەتانە تەنها لەو شوێنانەدا بەردەستن کە یاسا ڕێگە پێدەدات، و تەنها بۆ ئەو کەسانەن کە وەک وەبەرهێنەری شارەزا یان کەسی خاوەن سامانی بەرز پێناسە دەکرێن. پشکنینی شیاوی و گونجاوی جێبەجێ دەکرێت. سەرمایە لە مەترسیدایە. هیچ شتێک لەم ماڵپەڕەدا ڕاوێژی وەبەرهێنان، دارایی، باج یان یاسایی پێکناهێنێت. کارکردی ڕابردوو نیشانەیەکی متمانەپێکراو نییە بۆ ئەنجامەکانی داهاتوو."
   },
   "projects": {
     "hero": {
@@ -338,257 +338,257 @@
       "body": "تۆمارێک لەسەر جێبەجێکردن بنیاد نراوە، نەک بەڵێن."
     },
     "opg": {
-      "eyebrow": "Section A",
-      "title": "OPG Developments",
+      "eyebrow": "بەشی A",
+      "title": "گەشەپێدانەکانی OPG",
       "bromyard": {
         "title": "Bromyard Care Village",
         "location": "Porthouse Farm, Tenbury Road, Bromyard, Herefordshire",
-        "status": "Planning Resubmission — 2026",
-        "tag": "Active Project · Care Sector",
-        "body": "A mixed-use care-led development comprising a 78-bed C2 care home, 3 bungalows, a 1,116 sqm Class E foodstore shell, and conversion of an existing building. The scheme addresses acute care capacity needs in rural Herefordshire and represents a significant community infrastructure investment. Full consultant team appointed. Planning resubmission targeting August–September 2026."
+        "status": "دووبارە پێشکەشکردنی پلاندانان — ٢٠٢٦",
+        "tag": "پڕۆژەی چالاک · کەرتی چاودێری",
+        "body": "گەشەپێدانێکی فرەبەکارهێنانی بەرەو چاودێری، پێکهاتووە لە ماڵێکی چاودێری C2 بە ٧٨ جێگا، ٣ بەنگەلۆ، شێلی فرۆشگای خۆراکی پۆلی E بە ١,١١٦ مەتر چوارگۆشە، و گۆڕینی بینایەکی هەبوو. پڕۆژەکە وەڵامی پێداویستی توندی ظەرفیەتی چاودێرییە لە ناوچە لادێییەکانی Herefordshire و وەبەرهێنانێکی گرنگی ژێرخانی کۆمەڵگەیە. تیمی ڕاوێژکارانی تەواو دامەزراوە. ئامانج ئەوەیە دووبارە پێشکەشکردنی پلاندانان لە ئاب–ئەیلولی ٢٠٢٦ بکرێت."
       }
     },
     "team": {
-      "eyebrow": "Section B",
-      "title": "Selected Team Experience",
-      "intro": "The following projects reflect experience contributed by OPG's principals in prior professional roles, spanning quantity surveying, development management, project management and bank monitoring.",
-      "note": "The following projects reflect experience contributed by OPG's principals in prior professional roles, spanning quantity surveying, development management, project management and bank monitoring.",
-      "col_project": "Project",
-      "col_value": "Value",
-      "col_role": "Role",
+      "eyebrow": "بەشی B",
+      "title": "ئەزموونی هەڵبژێردراوی تیم",
+      "intro": "ئەم پڕۆژانەی خوارەوە ئەزموونی بەرپرسانی OPG نیشان دەدەن لە ڕۆڵە پیشەییەکانی پێشوویاندا، کە ڕووپێوی بڕ، بەڕێوەبردنی گەشەپێدان، بەڕێوەبردنی پڕۆژە و چاودێریکردنی بانک دەگرێتەوە.",
+      "note": "ئەم پڕۆژانەی خوارەوە ئەزموونی بەرپرسانی OPG نیشان دەدەن لە ڕۆڵە پیشەییەکانی پێشوویاندا، کە ڕووپێوی بڕ، بەڕێوەبردنی گەشەپێدان، بەڕێوەبردنی پڕۆژە و چاودێریکردنی بانک دەگرێتەوە.",
+      "col_project": "پڕۆژە",
+      "col_value": "بەها",
+      "col_role": "ڕۆڵ",
       "civic": {
         "project": "Civic House Redevelopment",
-        "role": "Quantity Surveying Services"
+        "role": "خزمەتگوزاری ڕووپێوی بڕ"
       },
       "myoderm": {
         "project": "Myoderm Pharmaceutical Distribution Centre",
-        "role": "Quantity Surveying Services"
+        "role": "خزمەتگوزاری ڕووپێوی بڕ"
       },
       "nuneaton": {
         "project": "Nuneaton — 6 Luxury Detached Homes",
-        "role": "Project Management & Quantity Surveying Services"
+        "role": "خزمەتگوزاری بەڕێوەبردنی پڕۆژە و ڕووپێوی بڕ"
       },
       "pershore": {
         "project": "Pershore — Georgian Houses to 8 Apartments",
-        "role": "Quantity Surveying Services"
+        "role": "خزمەتگوزاری ڕووپێوی بڕ"
       },
       "portfield": {
         "project": "141 Portfield Road",
-        "role": "Development Surveying Services"
+        "role": "خزمەتگوزاری ڕووپێوی گەشەپێدان"
       },
       "palace": {
         "project": "12A Palace Road London SW2",
-        "role": "Bank Monitoring Services"
+        "role": "خزمەتگوزاری چاودێریکردنی بانک"
       },
       "windmill": {
         "project": "94 Windmill Road Brentford — 9 Flats + Commercial",
-        "role": "Development Surveying Services"
+        "role": "خزمەتگوزاری ڕووپێوی گەشەپێدان"
       },
       "printworks": {
         "project": "The Printworks Bradford — 385 Flats",
-        "role": "Development Surveying Services"
+        "role": "خزمەتگوزاری ڕووپێوی گەشەپێدان"
       }
     }
   },
   "design": {
     "hero": {
-      "eyebrow": "Opulent Design Studio",
+      "eyebrow": "ستودیۆی دیزاینی Opulent",
       "title": "هەموو وردەکارییەک.\nهەموو گۆشەیەک.",
-      "body": "Photorealistic CGI, immersive walkthroughs and design consultancy that help secure planning, attract investment and accelerate sales.",
+      "body": "CGI ی هاوشێوەی ڕاستی، گەڕانی نقوومکەر و ڕاوێژکاری دیزاین کە یارمەتیدەرن بۆ بەدەستهێنانی مۆڵەتی پلاندانان، ڕاکێشانی وەبەرهێنان و خێراکردنی فرۆشتن.",
       "cta": "پڕۆژەکەت دەست پێ بکە"
     },
     "intro": {
-      "eyebrow": "What We Do",
-      "title": "Visualisation that performs.",
-      "body": "Great visualisation does more than look impressive. It helps planners understand proposals, gives investors confidence and enables buyers to see the finished product before construction begins. Every image we produce has a commercial purpose."
+      "eyebrow": "چی دەکەین",
+      "title": "بینراوکردنێک کە کاریگەرە.",
+      "body": "بینراوکردنی باش زیاتر لە سەرنجڕاکێش بوونە. یارمەتی پلاندانەران دەدات پێشنیارەکان تێبگەن، متمانە بە وەبەرهێنەران دەدات و ڕێگە بە کڕیاران دەدات بەرهەمی تەواوکراو ببینن پێش دەستپێکردنی بیناسازی. هەموو وێنەیەک کە دروستی دەکەین ئامانجێکی بازرگانی هەیە."
     },
     "services": {
-      "eyebrow": "Our Services",
-      "title": "Visualisation built for planning, investment and sales.",
+      "eyebrow": "خزمەتگوزارییەکانمان",
+      "title": "بینراوکردن بۆ پلاندانان، وەبەرهێنان و فرۆشتن دروستکراوە.",
       "cards": {
         "rendering": {
-          "title": "3D Architectural Rendering",
-          "body": "Photorealistic exterior renders that showcase the finished development. Built for planning application, marketing brochures, and investor presentations."
+          "title": "ڕێندەری تەلارسازیی سێ ڕەهەندی",
+          "body": "ڕێندەری دەرەوەی هاوشێوەی ڕاستی کە گەشەپێدانی تەواوکراو نیشان دەدات. بۆ داواکاری پلاندانان، بڕۆشۆری بازاڕگەری و پێشکەشکردنی وەبەرهێنەران دروستکراوە."
         },
         "interior": {
-          "title": "Interior Visualisation",
-          "body": "Detailed interior renders communicating layout, material finishes, and ambience. Buyers decide with their eyes."
+          "title": "بینراوکردنی ناوەوە",
+          "body": "ڕێندەری ناوەوەی وردەکاری کە ڕێکخستن، تەواوکاریی مادە و هەستی شوێنەکە دەگەیەنێت. کڕیاران بە چاو بڕیار دەدەن."
         },
         "cgi": {
-          "title": "CGI Animations & Walkthroughs",
-          "body": "Immersive animated walkthroughs for sales events, investor pitches, and planning committee presentations."
+          "title": "ئەنیمەیشنی CGI و گەڕانی نقوومکەر",
+          "body": "گەڕانی ئەنیمەیتکراوی نقوومکەر بۆ ڕووداوەکانی فرۆشتن، پێشکەشکردنی وەبەرهێنەران و کۆبوونەوەکانی لیژنەی پلاندانان."
         },
         "site_plans": {
-          "title": "Site Plans & Concept Layouts",
-          "body": "Clear, presentation-ready site layout plans and concept drawings for planning submissions and stakeholder communication."
+          "title": "پلانی شوێن و ڕێکخستنی چەمکی",
+          "body": "پلانی ڕێکخستنی شوێنی ڕوون و ئامادە بۆ پێشکەشکردن و وێنەی چەمکی بۆ پێشکەشکردنی پلاندانان و پەیوەندی لەگەڵ بەشداربووان."
         },
         "scans": {
-          "title": "3D Building Scans",
-          "body": "High-accuracy 3D scanning of existing buildings and sites. Measured surveys, as-built documentation, and heritage recording."
+          "title": "سکانی سێ ڕەهەندی بینا",
+          "body": "سکانی سێ ڕەهەندیی بە وردییەکی بەرز بۆ بینا و شوێنە هەبووەکان. ڕووپێوی پێوانەکراو، بەڵگەنامەی ئەوەی دروستکراوە و تۆمارکردنی میراتی."
         },
         "consultancy": {
-          "title": "Development Design Consultancy",
-          "body": "Early-stage design advice that balances planning policy, commercial viability and market appeal before detailed design begins."
+          "title": "ڕاوێژکاری دیزاینی گەشەپێدان",
+          "body": "ڕاوێژی دیزاینی قۆناغی سەرەتا کە هاوسەنگی دروست دەکات لە نێوان سیاسەتی پلاندانان، توانای بازرگانی و سەرنجڕاکێشیی بازاڕ پێش دەستپێکردنی دیزاینی وردەکاری."
         }
       }
     },
     "portfolio": {
-      "eyebrow": "Portfolio",
-      "title": "Our Work.",
+      "eyebrow": "پۆرتفۆلیۆ",
+      "title": "کارەکانمان.",
       "items": {
-        "p1": "Exterior CGI — woodland bungalow",
-        "p2": "Stone cottage terrace",
-        "p3": "Barn-style house",
-        "p4": "Interior living space",
-        "p5": "Kitchen diner",
-        "p6": "Bathroom visualisation"
+        "p1": "CGI ی دەرەوە — بەنگەلۆی دارستان",
+        "p2": "ڕیزی ماڵی کوچکی بەردین",
+        "p3": "ماڵی شێوازی ئەمباری کێڵگە",
+        "p4": "شوێنی ژیانی ناوەوە",
+        "p5": "چێشتخانە و ژووری نان خواردن",
+        "p6": "بینراوکردنی حەمام"
       }
     },
     "process": {
-      "eyebrow": "How It Works",
-      "title": "Turning development concepts into compelling visuals.",
+      "eyebrow": "چۆن کار دەکات",
+      "title": "گۆڕینی چەمکەکانی گەشەپێدان بۆ وێنەی سەرنجڕاکێش.",
       "steps": {
         "discover": {
-          "title": "Discover",
-          "body": "Tell us about your project, target audience and objectives. Whether it's planning, investment or sales, we'll tailor the visualisation to its purpose."
+          "title": "دۆزینەوە",
+          "body": "دەربارەی پڕۆژەکەت، بینەری ئامانج و ئامانجەکانت پێمان بڵێ. جا بۆ پلاندانان بێت، وەبەرهێنان یان فرۆشتن، بینراوکردنەکە بەپێی مەبەستەکەی دەگونجێنین."
         },
         "design": {
-          "title": "Design",
-          "body": "We establish viewpoints, materials, lighting and style before production begins, ensuring everyone is aligned from the outset."
+          "title": "دیزاین",
+          "body": "پێش دەستپێکردنی بەرهەمهێنان، گۆشەنیگا، مادە، ڕووناکی و شێواز دیاری دەکەین، بۆ ئەوەی هەمووان لە سەرەتاوە هاوڕا بن."
         },
         "create": {
-          "title": "Create",
-          "body": "We create photorealistic renders, animations and supporting visuals, refining every detail until the design is ready for presentation."
+          "title": "دروستکردن",
+          "body": "ڕێندەر، ئەنیمەیشن و بینراوی پشتگیرکەری هاوشێوەی ڕاستی دروست دەکەین و هەموو وردەکارییەک باش دەکەین تا دیزاینەکە ئامادەی پێشکەشکردن دەبێت."
         },
         "deliver": {
-          "title": "Deliver",
-          "body": "Receive presentation-ready visuals in all required formats, with revisions included and support through to final approval."
+          "title": "ڕادەستکردن",
+          "body": "بینراوی ئامادە بۆ پێشکەشکردن بە هەموو فۆرماتە پێویستەکان وەربگرە، لەگەڵ چاککردنەوەی تێدایە و پشتگیری تا پەسەندکردنی کۆتایی."
         }
       }
     },
     "cta": {
-      "title": "Ready to bring your development to life?",
-      "body": "Tell us about your project. We'll tell you exactly what it needs.",
-      "button": "Start Your Project",
-      "call": "Or call us: {{phone}}"
+      "title": "ئامادەیت گەشەپێدانەکەت بهێنیتە ژیانەوە؟",
+      "body": "دەربارەی پڕۆژەکەت پێمان بڵێ. ئێمە ڕێک پێت دەڵێین چی پێویستە.",
+      "button": "پڕۆژەکەت دەست پێ بکە",
+      "call": "یان پەیوەندیمان پێوە بکە: {{phone}}"
     }
   },
   "invest": {
     "hero": {
       "eyebrow": "وەبەرهێنان لەگەڵ Opulent Property Group",
       "title": "لەگەڵ گەشەپێدەرانی شارەزا وەبەرهێنان بکە.",
-      "body": "We partner with a select group of investors to acquire, plan and deliver property development opportunities — without interest-bearing debt."
+      "body": "لەگەڵ کۆمەڵێکی هەڵبژێردراو لە وەبەرهێنەران هاوبەشی دەکەین بۆ کڕین، پلاندانان و جێبەجێکردنی دەرفەتەکانی گەشەپێدانی خانووبەرە — بێ قەرزی سوودار."
     },
     "who": {
-      "eyebrow": "Who You're Investing With",
+      "eyebrow": "لەگەڵ کێ وەبەرهێنان دەکەیت",
       "name": "Rebwar Waladbaigi",
-      "role": "Founder & Operating Lead, Opulent Property Group",
-      "body": "Rebwar has 11 years of experience across quantity surveying, development management, planning and construction consultancy — including roles advising development lenders and managing large commercial portfolios. He founded OPG in 2018 with a clear conviction: that property development could be done differently — without interest-bearing debt, and with full alignment between investors and developers.",
-      "cta": "Connect on LinkedIn"
+      "role": "دامەزرێنەر و سەرکردەی کارگێڕی، Opulent Property Group",
+      "body": "ڕێبوار ١١ ساڵ ئەزموونی هەیە لە ڕووپێوی بڕ، بەڕێوەبردنی گەشەپێدان، پلاندانان و ڕاوێژکاری بیناسازی — لەگەڵ ئەو ڕۆڵانەی ڕاوێژی بە بانکە گەشەپێدەرەکان داوە و پۆرتفۆلیۆی گەورەی بازرگانی بەڕێوەبردووە. لە ساڵی ٢٠١٨ OPG ی دامەزراند بە بڕوایەکی ڕوون: ئەوەی گەشەپێدانی خانووبەرە دەکرێت بە شێوازێکی جیاواز ئەنجام بدرێت — بێ قەرزی سوودار، و بە هاوتەریبی تەواو لە نێوان وەبەرهێنەران و گەشەپێدەران.",
+      "cta": "پەیوەندی بکە لە LinkedIn"
     },
     "why": {
-      "title": "Why investors choose OPG",
+      "title": "بۆچی وەبەرهێنەران OPG هەڵدەبژێرن",
       "cards": {
         "planning": {
-          "title": "Planning-Led Strategy",
-          "body": "We create value by identifying planning opportunities before the wider market."
+          "title": "ستراتیژی پلاندانان-بنەما",
+          "body": "بەها دروست دەکەین بە دیاریکردنی دەرفەتەکانی پلاندانان پێش بازاڕی گشتی."
         },
         "asset": {
-          "title": "Asset-Backed Projects",
-          "body": "Capital is deployed into carefully selected property developments with tangible underlying assets."
+          "title": "پڕۆژەی پشتگیریکراو بە سامان",
+          "body": "سەرمایە دەخرێتە ناو گەشەپێدانی خانووبەرەی بە وریاییەوە هەڵبژێردراو کە سامانی بەرچاوی لەپشتە."
         },
         "aligned": {
-          "title": "Aligned Interests",
-          "body": "We invest alongside our partners wherever possible, ensuring our interests remain aligned."
+          "title": "بەرژەوەندی هاوتەریب",
+          "body": "هەر کاتێک بکرێت لەتەک هاوبەشەکانمان وەبەرهێنان دەکەین، بۆ ئەوەی بەرژەوەندییەکانمان هاوتەریب بمێننەوە."
         },
         "selective": {
-          "title": "Selective Opportunities",
-          "body": "We prioritise quality over quantity and pursue only projects that meet our investment criteria."
+          "title": "دەرفەتی هەڵبژێردراو",
+          "body": "کوالێتی لەسەروو بڕەوە دادەنێین و تەنها ئەو پڕۆژانە دەگرینە دەست کە پێوەرەکانی وەبەرهێنانی ئێمە جێبەجێ دەکەن."
         }
       }
     },
     "philosophy": {
-      "title": "Our investment philosophy",
-      "body": "We believe successful property investment begins long before construction starts. Through careful site selection, planning expertise and strong project management, we focus on creating value at every stage of the development lifecycle.\n\nRather than pursuing volume, we concentrate on projects where our experience and network can make the greatest difference."
+      "title": "فەلسەفەی وەبەرهێنانی ئێمە",
+      "body": "بڕوامان وایە وەبەرهێنانی سەرکەوتووی خانووبەرە زۆر پێش دەستپێکردنی بیناسازی دەست پێدەکات. بە هەڵبژاردنی وریایانەی شوێن، شارەزایی پلاندانان و بەڕێوەبردنی بەهێزی پڕۆژە، سەرنج دەخەینە سەر دروستکردنی بەها لە هەموو قۆناغێکی ژیانی گەشەپێدان.\n\nلە جیاتی دووای قەبارە، سەرنج دەخەینە سەر ئەو پڕۆژانەی کە ئەزموون و تۆڕەکەمان دەتوانێت گەورەترین جیاوازی تێدا دروست بکات."
     },
     "partners": {
-      "eyebrow": "Our Partners",
-      "title": "Who we work with",
-      "lead": "We typically work with:",
+      "eyebrow": "هاوبەشەکانمان",
+      "title": "لەگەڵ کێ کار دەکەین",
+      "lead": "بە گشتی لەگەڵ ئەمانە کار دەکەین:",
       "chips": {
-        "hnwi": "High-net-worth individuals",
-        "family": "Family offices",
-        "business": "Business owners",
-        "professional": "Professional investors",
-        "property": "Property professionals",
-        "overseas": "Overseas investors (where appropriate)"
+        "hnwi": "کەسانی خاوەن سامانی بەرز",
+        "family": "ئۆفیسی بنەماڵە",
+        "business": "خاوەن کارەکان",
+        "professional": "وەبەرهێنەرانی پیشەیی",
+        "property": "پیشەگەرانی خانووبەرە",
+        "overseas": "وەبەرهێنەرانی دەرەوەی وڵات (کاتێک گونجاو بێت)"
       }
     },
     "strategies": {
       "value": {
-        "eyebrow": "Short-Term Value Creation",
-        "title": "Acquire. Create Value. Exit.",
-        "subtitle": "Investment Strategy I — Value Creation",
-        "body": "We acquire underperforming residential and commercial assets where value can be created through planning, refurbishment, active asset management and disciplined project delivery before disposal.",
+        "eyebrow": "دروستکردنی بەهای کورتخایەن",
+        "title": "بکڕە. بەها دروست بکە. بفرۆشە.",
+        "subtitle": "ستراتیژیی وەبەرهێنان I — دروستکردنی بەها",
+        "body": "سامانی نیشتەجێبوون و بازرگانیی کەمکارا دەکڕین کە دەکرێت بەها تێیدا دروست بکرێت بە پلاندانان، چاککردنەوە، بەڕێوەبردنی چالاکی سامان و جێبەجێکردنی بە دیسیپلینی پڕۆژە پێش فرۆشتن.",
         "points": {
-          "p1": "Asset-backed acquisitions only",
-          "p2": "No speculative planning dependency",
-          "p3": "Value created through active management",
-          "p4": "Residential and Commercial Assets",
-          "p5": "Short to medium-term investment horizon",
-          "p6": "Opportunities offered selectively"
+          "p1": "تەنها کڕینی پشتگیریکراو بە سامان",
+          "p2": "هیچ پشتبەستنێکی گومانی بە پلاندانان نییە",
+          "p3": "بەها بە بەڕێوەبردنی چالاک دروست دەکرێت",
+          "p4": "سامانی نیشتەجێبوون و بازرگانی",
+          "p5": "ماوەی وەبەرهێنانی کورت بۆ مامناوەند",
+          "p6": "دەرفەتەکان بە هەڵبژاردن پێشکەش دەکرێن"
         },
-        "cta": "Join Priority Waitlist"
+        "cta": "بچۆ ناو لیستی چاوەڕوانیی پێشەنگ"
       },
       "hold": {
-        "eyebrow": "Long-Term Income & Hold",
-        "title": "Acquire. Create Value. Hold.",
-        "subtitle": "Investment Strategy II — Income & Hold",
-        "body": "We acquire underperforming residential, commercial and care assets where active asset management, refurbishment and planning can create long-term value. Rather than disposing of completed projects, selected assets are retained to generate sustainable rental income while benefiting from long-term capital growth.",
+        "eyebrow": "داهات و هێشتنەوەی درێژخایەن",
+        "title": "بکڕە. بەها دروست بکە. بیهێڵەرەوە.",
+        "subtitle": "ستراتیژیی وەبەرهێنان II — داهات و هێشتنەوە",
+        "body": "سامانی نیشتەجێبوون، بازرگانی و چاودێریی کەمکارا دەکڕین کە بەڕێوەبردنی چالاکی سامان، چاککردنەوە و پلاندانان دەتوانێت بەهای درێژخایەن دروست بکات. لە جیاتی فرۆشتنی پڕۆژە تەواوکراوەکان، هەندێک سامانی هەڵبژێردراو دەهێڵرێنەوە بۆ دروستکردنی داهاتی کرێی بەردەوام لە کاتێکدا سوود لە گەشەی سەرمایەی درێژخایەن وەردەگرن.",
         "points": {
-          "p1": "Value-add acquisitions with long-term ownership",
-          "p2": "Planning and refurbishment-led value creation",
-          "p3": "Residential, commercial and care assets",
-          "p4": "Sustainable rental income"
+          "p1": "کڕینی بەهابەرز لەگەڵ خاوەندارێتی درێژخایەن",
+          "p2": "دروستکردنی بەها بە پلاندانان و چاککردنەوە",
+          "p3": "سامانی نیشتەجێبوون، بازرگانی و چاودێری",
+          "p4": "داهاتی کرێی بەردەوام"
         },
-        "cta": "Join Priority Waitlist"
+        "cta": "بچۆ ناو لیستی چاوەڕوانیی پێشەنگ"
       }
     },
     "process": {
-      "title": "Our Investment Process",
-      "footnote": "Registering your interest does not guarantee access to future opportunities or constitute an offer of investment.",
+      "title": "پرۆسەی وەبەرهێنانی ئێمە",
+      "footnote": "تۆمارکردنی ئارەزووت دەستڕاگەیشتن بە دەرفەتی داهاتوو مسۆگەر ناکات و پێشنیاری وەبەرهێنان پێکناهێنێت.",
       "steps": {
         "s1": {
-          "title": "Register Interest",
-          "body": "Complete our enquiry form and tell us a little about yourself and your investment objectives. Every submission is reviewed personally."
+          "title": "ئارەزوو تۆمار بکە",
+          "body": "فۆرمی پرسیارمان پڕ بکەرەوە و کەمێک دەربارەی خۆت و ئامانجەکانی وەبەرهێنانت پێمان بڵێ. هەموو ناردنێک بە شێوەی کەسی پێداچوونەوەی بۆ دەکرێت."
         },
         "s2": {
-          "title": "Initial Conversation",
-          "body": "If we believe there may be a suitable fit, we'll arrange a confidential introductory call to discuss your experience, objectives and our approach."
+          "title": "گفتوگۆی سەرەتایی",
+          "body": "ئەگەر بڕوامان وابێت گونجانێک هەیە، پەیوەندییەکی ناساندنی نهێنی ڕێکدەخەین بۆ گفتوگۆکردن دەربارەی ئەزموون، ئامانج و ڕێبازەکەمان."
         },
         "s3": {
-          "title": "Due Diligence",
-          "body": "Where appropriate, prospective investment partners receive detailed project information, legal documentation and any applicable disclosures for independent review."
+          "title": "وردبینی",
+          "body": "کاتێک گونجاو بێت، هاوبەشە وەبەرهێنەرە چاوەڕوانکراوەکان زانیاری وردی پڕۆژە، بەڵگەنامەی یاسایی و هەر ئاشکراکردنێکی پەیوەندیدار وەردەگرن بۆ پێداچوونەوەی سەربەخۆ."
         },
         "s4": {
-          "title": "Future Opportunities",
-          "body": "When suitable opportunities become available, eligible individuals on our priority list may be contacted to discuss participation, subject to availability and applicable requirements."
+          "title": "دەرفەتەکانی داهاتوو",
+          "body": "کاتێک دەرفەتی گونجاو بەردەست دەبن، ڕەنگە پەیوەندی بە کەسە شیاوەکانی لیستی پێشەنگمانەوە بکرێت بۆ گفتوگۆکردن دەربارەی بەشداریکردن، بەپێی بەردەستبوون و مەرجە پەیوەندیدارەکان."
         }
       }
     },
-    "notice": "This website is provided for general information purposes only. Nothing on this website constitutes, or should be construed as, investment advice, financial advice, tax advice, legal advice or any other form of regulated professional advice. Nothing on this website should be interpreted as a financial promotion where UK law restricts such communications.\n\nRegistering an expression of interest via this website does not create any obligation, entitlement or contractual right to participate in any investment opportunity. Investment opportunities, where made available, are only offered where legally permitted to do so, exclusively to individuals who have qualified as sophisticated investors or high net worth individuals under applicable legislation. Eligibility and suitability assessment will be required.\n\nCapital is at risk. You may receive back less than you invest. Past performance is not a reliable indicator of future results and should not be relied upon as such.\n\nOpulent Property Group Ltd (Company Registration No. 11585965, Registered in England and Wales) is not authorised or regulated by the Financial Conduct Authority.",
+    "notice": "ئەم ماڵپەڕە تەنها بۆ مەبەستی زانیاریی گشتی دابین کراوە. هیچ شتێک لەم ماڵپەڕەدا ڕاوێژی وەبەرهێنان، ڕاوێژی دارایی، ڕاوێژی باج، ڕاوێژی یاسایی یان هیچ جۆرێکی تری ڕاوێژی پیشەیی ڕێکخراو پێکناهێنێت و نابێت بەو شێوەیە لێکبدرێتەوە. هیچ شتێک لەم ماڵپەڕەدا نابێت وەک بەرزکردنەوەی دارایی لێکبدرێتەوە لەو شوێنانەی یاسای بەریتانیا ئەو جۆرە پەیوەندییانە سنووردار دەکات.\n\nتۆمارکردنی دەربڕینی ئارەزوو لەڕێگەی ئەم ماڵپەڕەوە هیچ پابەندبوون، مافی هەبوون یان مافی گرێبەستی بۆ بەشداریکردن لە هیچ دەرفەتێکی وەبەرهێنان دروست ناکات. دەرفەتەکانی وەبەرهێنان، کاتێک بەردەست دەکرێن، تەنها لەو شوێنانەدا پێشکەش دەکرێن کە یاسا ڕێگە پێدەدات، و تەنها بۆ ئەو کەسانەی کە بەپێی یاسای پەیوەندیدار وەک وەبەرهێنەری شارەزا یان کەسی خاوەن سامانی بەرز مەرجەکانیان تەواو کردووە. هەڵسەنگاندنی شیاوی و گونجاوی پێویست دەبێت.\n\nسەرمایە لە مەترسیدایە. دەکرێت لە ئەوەی وەبەرهێنانت کردووە کەمتر وەربگریتەوە. کارکردی ڕابردوو نیشانەیەکی متمانەپێکراو نییە بۆ ئەنجامەکانی داهاتوو و نابێت بەو شێوەیە پشتی پێ ببەسترێت.\n\nOpulent Property Group Ltd (ژمارەی تۆماری کۆمپانیا ١١٥٨٥٩٦٥، تۆمارکراو لە ئینگلتەرا و وەیلز) لەلایەن دەسەڵاتی ڕەفتاری دارایی (FCA) ەوە مۆڵەتپێدراو یان ڕێکخراو نییە.",
     "form": {
-      "badge": "Rounds Are Closed",
-      "lead": "Places on the priority list are offered selectively. Complete the form below and we will be in touch if there is a suitable fit.",
-      "title": "Register Your Interest",
-      "intro": "Complete the form to join our pre-qualification list. When a suitable round opens, eligible individuals will be contacted in order of registration."
+      "badge": "خولەکان داخراون",
+      "lead": "شوێنەکانی لیستی پێشەنگ بە هەڵبژاردن پێشکەش دەکرێن. فۆرمی خوارەوە پڕ بکەرەوە و ئەگەر گونجانێکی گونجاو هەبێت پەیوەندیت پێوە دەکەین.",
+      "title": "ئارەزووی خۆت تۆمار بکە",
+      "intro": "فۆرمەکە پڕ بکەرەوە بۆ بەشداربوون لە لیستی پێشپشکنینمان. کاتێک خولێکی گونجاو دەکرێتەوە، پەیوەندی بە کەسە شیاوەکانەوە دەکرێت بەپێی ڕیزبەندی تۆمارکردن."
     }
   },
   "contact": {
     "hero": {
       "title": "با لەسەر پڕۆژەکەت قسە بکەین.",
       "eyebrow": "پەیوەندیمان پێوە بکە",
-      "body": "Whether you're a landowner, developer, investor or business owner, we'd welcome the opportunity to discuss your project.\n\nWe take on a limited number of instructions, allowing us to give every client the attention, expertise and commitment they deserve."
+      "body": "جا خاوەن زەوی بیت، گەشەپێدەر، وەبەرهێنەر یان خاوەن کار، دڵخۆش دەبین دەرفەتی گفتوگۆ دەربارەی پڕۆژەکەت هەبێت.\n\nژمارەیەکی سنووردار لە داواکاری وەردەگرین، بۆ ئەوەی بتوانین ئەو سەرنج، شارەزایی و پابەندبوونە بدەین بە هەموو کڕیارێک کە شایانیەتی."
     },
     "form": {
       "title": "پەیامێکمان بۆ بنێرە",
@@ -598,86 +598,86 @@
       "title": "زانیاری پەیوەندی",
       "email_label": "ئیمەیڵ",
       "phone_label": "تەلەفۆن",
-      "phone_value": "+44 783 164 5585 · Monday to Saturday, 8am to 6pm GMT",
+      "phone_value": "+44 783 164 5585 · لە دووشەممەوە تا شەممە، ٨ی بەیانی تا ٦ی ئێوارە بە GMT",
       "whatsapp_label": "واتساپ",
-      "whatsapp_value": "Typically the quickest way to speak with our team.",
-      "map_note": "Office — Birmingham, England — Meetings by appointment only",
+      "whatsapp_value": "بەگشتی خێراترین ڕێگایە بۆ قسەکردن لەگەڵ تیمەکەمان.",
+      "map_note": "ئۆفیس — بیرمینگهام، ئینگلتەرا — کۆبوونەوە تەنها بە ڕێککەوتن",
       "follow": "فۆڵۆومان بکە"
     }
   },
   "forms": {
     "contact": {
-      "full_name": "Full Name",
-      "full_name_ph": "Your full name",
-      "email": "Email Address",
+      "full_name": "ناوی تەواو",
+      "full_name_ph": "ناوی تەواوی خۆت",
+      "email": "ناونیشانی ئیمەیڵ",
       "email_ph": "your@email.com",
-      "phone": "Phone Number",
+      "phone": "ژمارەی تەلەفۆن",
       "phone_ph": "+44 7xxx xxxxxx",
-      "enquiry": "Nature of Enquiry",
-      "enquiry_ph": "Please select…",
+      "enquiry": "جۆری پرسیار",
+      "enquiry_ph": "تکایە هەڵبژێرە…",
       "enquiry_options": {
-        "general": "General enquiry",
-        "landowner": "Landowner / site",
-        "investor": "Investment",
-        "developer": "Development consultancy",
-        "care": "Care sector",
-        "design": "Design Studio"
+        "general": "پرسیاری گشتی",
+        "landowner": "خاوەن زەوی / شوێن",
+        "investor": "وەبەرهێنان",
+        "developer": "ڕاوێژکاری گەشەپێدان",
+        "care": "کەرتی چاودێری",
+        "design": "ستودیۆی دیزاین"
       },
-      "message": "Your Message",
-      "message_ph": "How can we help you?",
+      "message": "پەیامەکەت",
+      "message_ph": "چۆن یارمەتیت بدەین؟",
       "submit": "ناردنی داواکاری"
     },
     "care": {
-      "full_name": "Full Name",
-      "full_name_ph": "Your name",
-      "phone": "Contact Number",
+      "full_name": "ناوی تەواو",
+      "full_name_ph": "ناوەکەت",
+      "phone": "ژمارەی پەیوەندی",
       "phone_ph": "+44 7xxx xxxxxx",
-      "email": "Email Address",
+      "email": "ناونیشانی ئیمەیڵ",
       "email_ph": "your@email.com",
-      "role": "I am a…",
-      "role_ph": "Please select…",
+      "role": "من …",
+      "role_ph": "تکایە هەڵبژێرە…",
       "role_options": {
-        "operator": "Care operator / provider",
-        "investor": "Investor",
-        "landowner": "Landowner",
-        "other": "Other"
+        "operator": "بەرپرس / دابینکەری چاودێری",
+        "investor": "وەبەرهێنەر",
+        "landowner": "خاوەن زەوی",
+        "other": "هیتر"
       },
-      "requirements": "Your Requirements",
-      "requirements_ph": "Describe your property requirements or investment goals...",
+      "requirements": "داواکارییەکانت",
+      "requirements_ph": "داواکارییەکانی خانووبەرە یان ئامانجەکانی وەبەرهێنانت وەسف بکە...",
       "submit": "ناردنی داواکاری"
     },
     "invest": {
-      "full_name": "Full Name",
-      "full_name_ph": "Your full name",
-      "email": "Email Address",
-      "email_ph": "Your email address",
-      "phone": "Phone Number",
-      "phone_ph": "Your phone number",
-      "capital": "Approximate investable capital",
-      "capital_ph": "Please select…",
+      "full_name": "ناوی تەواو",
+      "full_name_ph": "ناوی تەواوی خۆت",
+      "email": "ناونیشانی ئیمەیڵ",
+      "email_ph": "ناونیشانی ئیمەیڵەکەت",
+      "phone": "ژمارەی تەلەفۆن",
+      "phone_ph": "ژمارەی تەلەفۆنەکەت",
+      "capital": "نزیکەی سەرمایەی وەبەرهێنانی بەردەست",
+      "capital_ph": "تکایە هەڵبژێرە…",
       "capital_options": {
-        "under_25": "Under £25,000",
-        "25_50": "£25,000 – £50,000",
-        "50_100": "£50,000 – £100,000",
-        "100_250": "£100,000 – £250,000",
-        "250_plus": "£250,000+"
+        "under_25": "کەمتر لە £٢٥,٠٠٠",
+        "25_50": "£٢٥,٠٠٠ – £٥٠,٠٠٠",
+        "50_100": "£٥٠,٠٠٠ – £١٠٠,٠٠٠",
+        "100_250": "£١٠٠,٠٠٠ – £٢٥٠,٠٠٠",
+        "250_plus": "£٢٥٠,٠٠٠+"
       },
-      "confirm": "I confirm I am",
-      "confirm_ph": "Please select…",
+      "confirm": "پشتڕاستی دەکەمەوە کە من",
+      "confirm_ph": "تکایە هەڵبژێرە…",
       "confirm_options": {
-        "sophisticated": "A self-certified sophisticated investor",
-        "hnwi": "A high net worth individual",
-        "other": "Other"
+        "sophisticated": "وەبەرهێنەری شارەزای خۆ-پشتڕاستکراوە",
+        "hnwi": "کەسی خاوەن سامانی بەرزم",
+        "other": "هیتر"
       },
-      "hear": "How did you hear about us",
-      "hear_ph": "Please select…",
+      "hear": "چۆن دەربارەمان بیستت",
+      "hear_ph": "تکایە هەڵبژێرە…",
       "hear_options": {
-        "referral": "Referral",
+        "referral": "پێشنیارکردن",
         "linkedin": "LinkedIn",
-        "search": "Search engine",
-        "other": "Other"
+        "search": "ئامرازی گەڕان",
+        "other": "هیتر"
       },
-      "ack": "I understand this is an expression of interest only and not a commitment or offer to invest",
+      "ack": "تێدەگەم کە ئەمە تەنها دەربڕینی ئارەزووە و پابەندبوون یان پێشنیاری وەبەرهێنان نییە",
       "submit": "ناردنی دەربڕینی ئارەزوو"
     }
   },
