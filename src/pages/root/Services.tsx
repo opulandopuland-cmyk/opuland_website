@@ -33,9 +33,10 @@ const Services = () => {
           align="left"
         />
         <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-          {development.map((card) => (
+          {development.map((card, index) => (
             <AudienceCard
               key={card.id}
+              index={index}
               eyebrowKey={card.eyebrowKey}
               titleKey={card.titleKey}
               bodyKey={card.bodyKey}
@@ -61,9 +62,10 @@ const Services = () => {
           bodyKey="services.consultancy.intro"
         />
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-          {consultancy.map((s) => (
+          {consultancy.map((s, index) => (
             <ServiceCard
               key={s.id}
+              index={index}
               titleKey={s.titleKey}
               bodyKey={s.bodyKey}
               icon={s.icon}
@@ -79,9 +81,10 @@ const Services = () => {
           titleKey="services.advisory.title"
         />
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-          {advisory.map((s) => (
+          {advisory.map((s, index) => (
             <ServiceCard
               key={s.id}
+              index={index}
               titleKey={s.titleKey}
               bodyKey={s.bodyKey}
               variant="sage"

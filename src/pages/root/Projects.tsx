@@ -31,8 +31,8 @@ const Projects = () => {
           align="left"
         />
         <div className="flex flex-col gap-12">
-          {projects.map((p) => (
-            <ProjectCard key={p.id} {...p} />
+          {projects.map((p, index) => (
+            <ProjectCard key={p.id} {...p} index={index} />
           ))}
         </div>
       </section>

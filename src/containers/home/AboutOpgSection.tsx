@@ -13,39 +13,56 @@ const AboutOpgSection = () => {
   return (
     <section className="bg-white py-16 md:py-24 border-t border-primary/5">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-10 items-center">
-        <div className="rounded-xl overflow-hidden aspect-[4/3] order-2 md:order-1">
-          <img
+        <Animation.Slide
+          from="left"
+          className="order-2 md:order-1 rounded-xl overflow-hidden aspect-[4/3]">
+          <Animation.Image
             src="/images/home.jpg"
             alt=""
-            className="w-full h-full object-cover"
+            className="w-full h-full"
           />
-        </div>
-        <div className="flex flex-col gap-4 text-primary order-1 md:order-2">
-          <span className="text-yellow text-xs font-semibold uppercase tracking-[0.2em]">
+        </Animation.Slide>
+        <Animation.Slide
+          from="right"
+          delay={0.12}
+          className="flex flex-col gap-4 text-primary order-1 md:order-2">
+          <Animation.Text
+            as="span"
+            transition={{ duration: 0.5, delay: 0.15 }}
+            className="text-yellow text-xs font-semibold uppercase tracking-[0.2em]">
             {t("home.about_opg.eyebrow")}
-          </span>
-          <Animation.Text as="h2" className="text-2xl md:text-4xl font-bold">
+          </Animation.Text>
+          <Animation.Text
+            as="h2"
+            transition={{ duration: 0.65, delay: 0.22 }}
+            className="text-2xl md:text-4xl font-bold">
             {t("home.about_opg.title")}
           </Animation.Text>
-          <p className="text-sm md:text-base text-primary/70 leading-relaxed whitespace-pre-line">
+          <Animation.Text
+            as="p"
+            transition={{ duration: 0.6, delay: 0.3 }}
+            className="text-sm md:text-base text-primary/70 leading-relaxed whitespace-pre-line">
             {t("home.about_opg.body")}
-          </p>
+          </Animation.Text>
           <div className="flex flex-col gap-4 mt-4">
-            {features.map((f) => (
+            {features.map((f, index) => (
               <FeatureCard
                 key={f.id}
                 titleKey={f.titleKey}
                 bodyKey={f.bodyKey}
+                index={index}
               />
             ))}
           </div>
-          <Button
-            render={<Link to={ENUMs.PAGES.ABOUT} />}
-            className="w-fit mt-4"
-            size="lg">
-            {t("home.about_opg.cta")}
-          </Button>
-        </div>
+          <Animation.Fade delay={0.45}>
+            <Button
+              render={<Link to={ENUMs.PAGES.ABOUT} />}
+              className="w-fit mt-4"
+              size="lg">
+              {t("home.about_opg.cta")}
+            </Button>
+          </Animation.Fade>
+        </Animation.Slide>
       </div>
     </section>
   );

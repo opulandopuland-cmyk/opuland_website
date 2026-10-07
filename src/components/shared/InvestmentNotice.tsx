@@ -10,14 +10,20 @@ const InvestmentNotice = ({ bodyKey }: InvestmentNoticeProps) => {
 
   return (
     <section className="bg-[#F2EEE4] py-10 md:py-14">
-      <Animation.Container className="max-w-3xl mx-auto text-center flex flex-col items-center gap-3">
-        <span className="text-yellow text-xs font-semibold uppercase tracking-[0.2em]">
+      <Animation.Fade className="max-w-3xl mx-auto text-center flex flex-col items-center gap-3">
+        <Animation.Text
+          as="span"
+          transition={{ duration: 0.5 }}
+          className="text-yellow text-xs font-semibold uppercase tracking-[0.2em]">
           {t("common.investment_notice")}
-        </span>
-        <p className="text-xs md:text-sm text-primary/70 leading-relaxed whitespace-pre-line">
+        </Animation.Text>
+        <Animation.Text
+          as="p"
+          transition={{ duration: 0.6, delay: 0.12 }}
+          className="text-xs md:text-sm text-primary/70 leading-relaxed whitespace-pre-line">
           {t(bodyKey)}
-        </p>
-      </Animation.Container>
+        </Animation.Text>
+      </Animation.Fade>
     </section>
   );
 };

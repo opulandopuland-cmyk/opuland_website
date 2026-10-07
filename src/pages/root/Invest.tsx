@@ -1,3 +1,4 @@
+import Animation from "@/components/animation/Animation";
 import AudienceCard from "@/components/card/AudienceCard";
 import ServiceCard from "@/components/card/ServiceCard";
 import StepCard from "@/components/card/StepCard";
@@ -35,48 +36,65 @@ const Invest = () => {
 
       <section className="bg-white py-16 md:py-24">
         <div className="grid grid-cols-1 md:grid-cols-[280px_1fr] lg:grid-cols-[320px_1fr] gap-6 md:gap-10 items-center max-w-5xl">
-          <div className="rounded-xl overflow-hidden aspect-square w-full max-w-[280px] md:max-w-none">
-            <img
+          <Animation.Slide from="left" className="w-full max-w-[280px] md:max-w-none">
+            <Animation.Image
               src="/images/founder.jpeg"
               alt={t("invest.who.name")}
-              className="w-full h-full object-cover"
+              className="rounded-xl aspect-square w-full"
             />
-          </div>
-          <div className="flex flex-col gap-4 text-primary">
-            <span className="text-yellow text-xs font-semibold uppercase tracking-[0.2em]">
+          </Animation.Slide>
+          <Animation.Slide from="right" delay={0.15} className="flex flex-col gap-4 text-primary">
+            <Animation.Text
+              as="span"
+              transition={{ duration: 0.5, delay: 0.2 }}
+              className="text-yellow text-xs font-semibold uppercase tracking-[0.2em]">
               {t("invest.who.eyebrow")}
-            </span>
-            <h3 className="text-2xl md:text-3xl font-bold">
+            </Animation.Text>
+            <Animation.Text
+              as="h3"
+              transition={{ duration: 0.55, delay: 0.28 }}
+              className="text-2xl md:text-3xl font-bold">
               {t("invest.who.name")}
-            </h3>
-            <p className="text-primary/60 text-sm">{t("invest.who.role")}</p>
-            <p className="text-sm md:text-base text-primary/70 leading-relaxed">
+            </Animation.Text>
+            <Animation.Text
+              as="p"
+              transition={{ duration: 0.5, delay: 0.34 }}
+              className="text-primary/60 text-sm">
+              {t("invest.who.role")}
+            </Animation.Text>
+            <Animation.Text
+              as="p"
+              transition={{ duration: 0.55, delay: 0.4 }}
+              className="text-sm md:text-base text-primary/70 leading-relaxed">
               {t("invest.who.body")}
-            </p>
-            <Button
-              render={
-                <a
-                  href={ENUMs.GLOBAL.LINKEDIN_FOUNDER}
-                  target="_blank"
-                  rel="noreferrer"
-                />
-              }
-              variant="linkedin"
-              className="w-fit gap-2"
-              size="lg">
-              <LinkedinIcon className="size-4" />
-              {t("invest.who.cta")}
-            </Button>
-          </div>
+            </Animation.Text>
+            <Animation.Fade delay={0.5}>
+              <Button
+                render={
+                  <a
+                    href={ENUMs.GLOBAL.LINKEDIN_FOUNDER}
+                    target="_blank"
+                    rel="noreferrer"
+                  />
+                }
+                variant="linkedin"
+                className="w-fit gap-2"
+                size="lg">
+                <LinkedinIcon className="size-4" />
+                {t("invest.who.cta")}
+              </Button>
+            </Animation.Fade>
+          </Animation.Slide>
         </div>
       </section>
 
       <section className="bg-[#F2EEE4] py-16 md:py-24">
         <SectionHeader titleKey="invest.why.title" />
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
-          {why.map((card) => (
+          {why.map((card, index) => (
             <ServiceCard
               key={card.id}
+              index={index}
               titleKey={card.titleKey}
               bodyKey={card.bodyKey}
               icon={card.icon}
@@ -101,22 +119,25 @@ const Invest = () => {
           light
         />
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 max-w-4xl mx-auto">
-          {partners.map((chip) => (
-            <div
+          {partners.map((chip, index) => (
+            <Animation.Container
               key={chip.id}
+              index={index}
+              hoverLift
               className="flex items-center gap-3 border border-white/20 rounded-xl px-5 py-4 text-white">
               <Gem className="size-4 text-yellow shrink-0" />
               <span className="text-sm">{t(chip.labelKey)}</span>
-            </div>
+            </Animation.Container>
           ))}
         </div>
       </section>
 
       <section className="bg-[#F2EEE4] py-16 md:py-24">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-          {strategies.map((s) => (
+          {strategies.map((s, index) => (
             <AudienceCard
               key={s.id}
+              index={index}
               eyebrowKey={s.eyebrowKey}
               titleKey={s.titleKey}
               bodyKey={s.bodyKey}
@@ -138,9 +159,10 @@ const Invest = () => {
       <section className="bg-white py-16 md:py-24">
         <SectionHeader titleKey="invest.process.title" />
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
-          {steps.map((step) => (
+          {steps.map((step, index) => (
             <StepCard
               key={step.id}
+              index={index}
               step={step.step}
               titleKey={step.titleKey}
               bodyKey={step.bodyKey}
