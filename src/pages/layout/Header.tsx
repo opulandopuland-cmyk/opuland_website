@@ -17,7 +17,7 @@ const Header = () => {
     <header className="sticky top-0 z-50 w-full bg-primary py-4 md:py-5 flex flex-row justify-between items-center gap-4 shadow-md">
       <Link to={ENUMs.PAGES.HOME} className="flex items-center gap-3 shrink-0">
         <img
-          src="/images/logo.png"
+          src="/images/logo_without_bg.png"
           alt="Opulent Property Group"
           className="h-10 w-auto object-contain"
         />

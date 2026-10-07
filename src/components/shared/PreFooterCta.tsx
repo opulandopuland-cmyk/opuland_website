@@ -11,7 +11,7 @@ const PreFooterCta = () => {
   return (
     <section className="relative bg-primary overflow-hidden py-16 md:py-24">
       <img
-        src="/images/logo.png"
+        src="/images/logo_without_bg.png"
         alt=""
         aria-hidden
         className="pointer-events-none absolute end-0 top-1/2 -translate-y-1/2 h-[120%] opacity-5 object-contain"
