@@ -36,14 +36,19 @@ const Invest = () => {
 
       <section className="bg-white py-16 md:py-24">
         <div className="grid grid-cols-1 md:grid-cols-[280px_1fr] lg:grid-cols-[320px_1fr] gap-6 md:gap-10 items-center max-w-5xl">
-          <Animation.Slide from="left" className="w-full max-w-[280px] md:max-w-none">
+          <Animation.Slide
+            from="left"
+            className="w-full max-w-[280px] md:max-w-none">
             <Animation.Image
               src="/images/founder.jpeg"
               alt={t("invest.who.name")}
               className="rounded-xl aspect-square w-full"
             />
           </Animation.Slide>
-          <Animation.Slide from="right" delay={0.15} className="flex flex-col gap-4 text-primary">
+          <Animation.Slide
+            from="right"
+            delay={0.15}
+            className="flex flex-col gap-4 text-primary">
             <Animation.Text
               as="span"
               transition={{ duration: 0.5, delay: 0.2 }}
@@ -146,7 +151,7 @@ const Invest = () => {
               cta={
                 <Button
                   render={<a href={s.href} />}
-                  className="w-fit mt-4 rounded-full"
+                  className="w-fit mt-4 rounded-full text-xs md:text-md"
                   size="lg">
                   {t(s.ctaKey)}
                 </Button>

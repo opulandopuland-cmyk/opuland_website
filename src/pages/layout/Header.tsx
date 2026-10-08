@@ -14,7 +14,7 @@ const Header = () => {
   const [open, setOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-50 w-full bg-primary py-4 md:py-5 flex flex-row justify-between items-center gap-4 shadow-md">
+    <header className="fixed top-0 left-0 right-0 z-50 w-full bg-primary py-4 md:py-5 flex flex-row justify-between items-center gap-4 shadow-md">
       <Link to={ENUMs.PAGES.HOME} className="flex items-center gap-3 shrink-0">
         <img
           src="/images/logo_without_bg.png"
