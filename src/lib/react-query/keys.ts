@@ -21,6 +21,7 @@ export const QUERY_KEYs = {
   INVEST_PROCESS: "invest-process",
   FOOTER_LINKS: "footer-links",
   CONTACT_INFO: "contact-info",
+  PRIVACY: "privacy",
 } as const;
 
 export type QUERY_KEYsType = (typeof QUERY_KEYs)[keyof typeof QUERY_KEYs];

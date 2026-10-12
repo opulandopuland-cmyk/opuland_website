@@ -19,5 +19,6 @@ export const ENUMs = {
     DESIGN_STUDIO: "/design-studio",
     INVEST: "/invest",
     CONTACT: "/contact",
+    PRIVACY: "/privacy-policy",
   },
 } as const;

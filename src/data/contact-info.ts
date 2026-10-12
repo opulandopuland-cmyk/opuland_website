@@ -42,27 +42,27 @@ export const contactDetails: ContactDetail[] = [
 
 export const socialLinks: SocialLink[] = [
   {
-    id: "linkedin",
-    labelKey: "social.linkedin",
-    href: "#",
-    icon: "Linkedin",
+    id: "facebook",
+    labelKey: "social.facebook",
+    href: "https://www.facebook.com/profile.php?id=61591863868794",
+    icon: "Facebook",
   },
   {
-    id: "instagram",
-    labelKey: "social.instagram",
-    href: "#",
+    id: "instagram-property",
+    labelKey: "social.instagram_property",
+    href: "https://www.instagram.com/opulentpropertygroup/",
     icon: "Instagram",
   },
   {
-    id: "facebook",
-    labelKey: "social.facebook",
-    href: "#",
-    icon: "Facebook",
+    id: "instagram-design",
+    labelKey: "social.instagram_design",
+    href: "https://www.instagram.com/opulent.designstudio/",
+    icon: "Instagram",
   },
   {
     id: "youtube",
     labelKey: "social.youtube",
-    href: "#",
+    href: "https://www.youtube.com/@OpulentPG",
     icon: "Youtube",
   },
 ];

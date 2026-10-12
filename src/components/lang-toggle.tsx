@@ -4,15 +4,22 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import { Languages } from "lucide-react";
-import { Button } from "./ui/button";
+import { ChevronDown } from "lucide-react";
 import { useTranslation } from "react-i18next";
 import { useEffect } from "react";
 import { ENUMs } from "@/lib/enums";
 import Cookie from "cookie-ts";
+import { cn } from "@/lib/utils";
+
+const langs = [
+  { code: "en" as const, short: "EN", labelKey: "langs.en" },
+  { code: "ckb" as const, short: "کوردی", labelKey: "langs.ckb" },
+];
 
 export function LangToggle() {
   const { t, i18n } = useTranslation();
+  const active = langs.find((l) => l.code === i18n.language) ?? langs[0];
+
   useEffect(() => {
     let cookieLang = Cookie.get(ENUMs.GLOBAL.LANG_COOKIE);
     if (cookieLang) {
@@ -30,31 +37,38 @@ export function LangToggle() {
       document.body.classList.remove("english_font");
     }
   }, [i18n]);
+
   return (
     <DropdownMenu>
-      <DropdownMenuTrigger>
-        <Button
-          variant="outline"
-          size="icon"
-          className="rounded-full border-yellow/60 bg-white text-primary hover:bg-yellow hover:text-primary hover:border-yellow">
-          <Languages className="h-5 w-5 text-primary" />
-        </Button>
+      <DropdownMenuTrigger
+        className={cn(
+          "inline-flex items-center gap-1.5 rounded-full border border-yellow/50",
+          "bg-yellow/10 px-3 py-1.5 text-xs font-semibold uppercase tracking-[0.14em]",
+          "text-yellow hover:bg-yellow hover:text-primary transition-colors duration-200",
+          "outline-none focus-visible:ring-2 focus-visible:ring-yellow/40"
+        )}>
+        <span className="size-1.5 rounded-full bg-yellow shrink-0" />
+        <span>{active.short}</span>
+        <ChevronDown className="size-3.5 opacity-80" />
       </DropdownMenuTrigger>
-      <DropdownMenuContent className="z-[9999]" align="end">
-        {(["en", "ckb"] as const).map((val) => (
+      <DropdownMenuContent
+        className="z-[9999] min-w-[140px] border-yellow/20 bg-primary p-1"
+        align="end">
+        {langs.map((lang) => (
           <DropdownMenuItem
-            key={val}
+            key={lang.code}
             onClick={() => {
-              i18n.changeLanguage(val);
-              Cookie.set(ENUMs.GLOBAL.LANG_COOKIE, val, 864000);
+              i18n.changeLanguage(lang.code);
+              Cookie.set(ENUMs.GLOBAL.LANG_COOKIE, lang.code, 864000);
               window.location.reload();
             }}
-            className={`${
-              i18n.language === val ? "bg-yellow text-primary" : "text-primary"
-            } focus:bg-yellow focus:text-primary transition-colors duration-200 cursor-pointer ${
-              val === "en" ? "english_font" : "kurdish_font"
-            }`}>
-            {String(t(`langs.${val}`))}
+            className={cn(
+              "cursor-pointer rounded-md text-sm transition-colors duration-200",
+              "text-white/85 focus:bg-yellow focus:text-primary",
+              i18n.language === lang.code && "bg-yellow/20 text-yellow",
+              lang.code === "en" ? "english_font" : "kurdish_font"
+            )}>
+            {String(t(lang.labelKey))}
           </DropdownMenuItem>
         ))}
       </DropdownMenuContent>

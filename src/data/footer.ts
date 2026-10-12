@@ -69,6 +69,11 @@ export const footerColumns: FooterColumn[] = [
         labelKey: "footer.links.design",
         href: ENUMs.PAGES.DESIGN_STUDIO,
       },
+      {
+        id: "privacy",
+        labelKey: "footer.legal.privacy",
+        href: ENUMs.PAGES.PRIVACY,
+      },
     ],
   },
 ];

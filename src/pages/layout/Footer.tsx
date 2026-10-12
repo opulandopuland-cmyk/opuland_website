@@ -76,8 +76,13 @@ const Footer = () => {
         </div>
       </div>
 
-      <div className="border-t border-white/10 px-5 md:px-[50px] lg:px-[100px] py-5 flex flex-col md:flex-row gap-3 justify-center items-center text-xs text-white/50">
+      <div className="border-t border-white/10 px-5 md:px-[50px] lg:px-[100px] py-5 flex flex-col md:flex-row gap-3 justify-between items-center text-xs text-white/50">
         <p>{t("footer.copyright")}</p>
+        <Link
+          to={ENUMs.PAGES.PRIVACY}
+          className="hover:text-yellow transition-colors">
+          {t("footer.legal.privacy")}
+        </Link>
       </div>
     </footer>
   );

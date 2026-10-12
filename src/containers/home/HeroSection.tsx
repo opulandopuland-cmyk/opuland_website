@@ -76,7 +76,7 @@ const HeroSection = () => {
             <div className="absolute -top-4 -end-4 md:-top-6 md:-end-6 size-20 md:size-28 rounded-full bg-white/10 blur-2xl pointer-events-none" />
 
             <Animation.Image
-              src="/images/home.jpg"
+              src="/images/hero.jpeg"
               alt={t("home.hero.title")}
               delay={0.35}
               scaleEffect

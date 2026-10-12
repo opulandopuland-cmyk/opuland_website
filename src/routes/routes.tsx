@@ -17,6 +17,7 @@ import Projects from "@/pages/root/Projects";
 import DesignStudio from "@/pages/root/DesignStudio";
 import Invest from "@/pages/root/Invest";
 import Contact from "@/pages/root/Contact";
+import PrivacyPolicy from "@/pages/root/PrivacyPolicy";
 
 export type MyRoute = {
   path: string;
@@ -43,6 +44,7 @@ const routes: RouteSection[] = [
       { path: ENUMs.PAGES.DESIGN_STUDIO, element: <DesignStudio /> },
       { path: ENUMs.PAGES.INVEST, element: <Invest /> },
       { path: ENUMs.PAGES.CONTACT, element: <Contact /> },
+      { path: ENUMs.PAGES.PRIVACY, element: <PrivacyPolicy /> },
     ],
   },
 ];
