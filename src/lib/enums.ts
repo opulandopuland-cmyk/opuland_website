@@ -5,7 +5,7 @@ export const ENUMs = {
     WHATSAPP_URL: "https://wa.me/447831645585",
     EMAIL: "rw@opulentpropertygroup.com",
     PHONE: "+44 783 164 5585",
-    LINKEDIN_FOUNDER: "https://www.linkedin.com/in/",
+    LINKEDIN_FOUNDER: "https://uk.linkedin.com/company/opulentpropertygroup",
   },
   SECTIONS: {
     HOME_SECTION: "",
