@@ -9,11 +9,13 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
+import { toast } from "@/components/ui/toast";
 import {
   formFieldClass,
   formSelectTriggerClass,
   formTextareaClass,
 } from "@/lib/form-styles";
+import { sendFormEmail } from "@/lib/emailjs";
 import { useTranslation } from "react-i18next";
 import { FormEvent, useState } from "react";
 
@@ -22,9 +24,42 @@ const roleOptions = ["operator", "investor", "landowner", "other"] as const;
 const CareSiteForm = () => {
   const { t } = useTranslation();
   const [role, setRole] = useState<string>();
+  const [sending, setSending] = useState(false);
 
-  const onSubmit = (e: FormEvent) => {
+  const onSubmit = async (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
+    if (!role) {
+      toast.add({ title: t("forms.status.required_select"), type: "error" });
+      return;
+    }
+
+    const form = e.currentTarget;
+    const data = new FormData(form);
+    const fullName = String(data.get("fullName") || "");
+    const email = String(data.get("email") || "");
+    const phone = String(data.get("phone") || "");
+    const requirements = String(data.get("requirements") || "");
+
+    setSending(true);
+    try {
+      await sendFormEmail({
+        formType: "Care Sector",
+        fullName,
+        email,
+        phone,
+        fields: {
+          Role: t(`forms.care.role_options.${role}`),
+          Requirements: requirements,
+        },
+      });
+      toast.add({ title: t("forms.status.success"), type: "success" });
+      form.reset();
+      setRole(undefined);
+    } catch {
+      toast.add({ title: t("forms.status.error"), type: "error" });
+    } finally {
+      setSending(false);
+    }
   };
 
   return (
@@ -97,8 +132,12 @@ const CareSiteForm = () => {
           className={formTextareaClass}
         />
       </div>
-      <Button type="submit" className="w-full font-semibold" size="lg">
-        {t("forms.care.submit")}
+      <Button
+        type="submit"
+        disabled={sending}
+        className="w-full font-semibold"
+        size="lg">
+        {sending ? t("forms.status.sending") : t("forms.care.submit")}
       </Button>
     </form>
   );

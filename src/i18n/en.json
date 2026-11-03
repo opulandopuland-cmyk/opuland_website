@@ -80,7 +80,7 @@
   "home": {
     "hero": {
       "title": "We acquire. We plan. We develop.",
-      "body": "Interest-free, equity-based property development across England — built on 11 years of hands-on experience in planning, quantity surveying and development management.",
+      "body": "Interest-free, equity-based property development across England.\nBuilt on over a decade of hands-on experience in planning, quantity surveying and development management.",
       "cta_primary": "Explore Our Approach"
     },
     "pathways": {
@@ -608,6 +608,12 @@
     }
   },
   "forms": {
+    "status": {
+      "sending": "Sending…",
+      "success": "Thank you. Your enquiry has been sent.",
+      "error": "Something went wrong. Please try again or contact us directly.",
+      "required_select": "Please complete all required fields."
+    },
     "contact": {
       "full_name": "Full Name",
       "full_name_ph": "Your full name",

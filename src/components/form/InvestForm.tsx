@@ -9,10 +9,12 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
+import { toast } from "@/components/ui/toast";
 import {
   formFieldClass,
   formSelectTriggerClass,
 } from "@/lib/form-styles";
+import { sendFormEmail } from "@/lib/emailjs";
 import { useTranslation } from "react-i18next";
 import { FormEvent, useState } from "react";
 
@@ -33,9 +35,46 @@ const InvestForm = () => {
   const [investorType, setInvestorType] = useState<string>();
   const [heard, setHeard] = useState<string>();
   const [ack, setAck] = useState(false);
+  const [sending, setSending] = useState(false);
 
-  const onSubmit = (e: FormEvent) => {
+  const onSubmit = async (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
+    if (!capital || !investorType || !heard || !ack) {
+      toast.add({ title: t("forms.status.required_select"), type: "error" });
+      return;
+    }
+
+    const form = e.currentTarget;
+    const data = new FormData(form);
+    const fullName = String(data.get("fullName") || "");
+    const email = String(data.get("email") || "");
+    const phone = String(data.get("phone") || "");
+
+    setSending(true);
+    try {
+      await sendFormEmail({
+        formType: "Invest",
+        fullName,
+        email,
+        phone,
+        fields: {
+          "Investable capital": t(`forms.invest.capital_options.${capital}`),
+          "Investor type": t(`forms.invest.confirm_options.${investorType}`),
+          "How they heard about us": t(`forms.invest.hear_options.${heard}`),
+          Acknowledgement: "Confirmed",
+        },
+      });
+      toast.add({ title: t("forms.status.success"), type: "success" });
+      form.reset();
+      setCapital(undefined);
+      setInvestorType(undefined);
+      setHeard(undefined);
+      setAck(false);
+    } catch {
+      toast.add({ title: t("forms.status.error"), type: "error" });
+    } finally {
+      setSending(false);
+    }
   };
 
   return (
@@ -138,8 +177,12 @@ const InvestForm = () => {
         />
         <span>{t("forms.invest.ack")}</span>
       </label>
-      <Button type="submit" className="w-full font-semibold" size="lg">
-        {t("forms.invest.submit")}
+      <Button
+        type="submit"
+        disabled={sending}
+        className="w-full font-semibold"
+        size="lg">
+        {sending ? t("forms.status.sending") : t("forms.invest.submit")}
       </Button>
     </form>
   );

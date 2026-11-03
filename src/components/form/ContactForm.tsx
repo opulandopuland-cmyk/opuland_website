@@ -9,11 +9,13 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
+import { toast } from "@/components/ui/toast";
 import {
   formFieldClass,
   formSelectTriggerClass,
   formTextareaClass,
 } from "@/lib/form-styles";
+import { sendFormEmail } from "@/lib/emailjs";
 import { useTranslation } from "react-i18next";
 import { FormEvent, useState } from "react";
 
@@ -29,9 +31,42 @@ const enquiryOptions = [
 const ContactForm = () => {
   const { t } = useTranslation();
   const [enquiry, setEnquiry] = useState<string>();
+  const [sending, setSending] = useState(false);
 
-  const onSubmit = (e: FormEvent) => {
+  const onSubmit = async (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
+    if (!enquiry) {
+      toast.add({ title: t("forms.status.required_select"), type: "error" });
+      return;
+    }
+
+    const form = e.currentTarget;
+    const data = new FormData(form);
+    const fullName = String(data.get("fullName") || "");
+    const email = String(data.get("email") || "");
+    const phone = String(data.get("phone") || "");
+    const message = String(data.get("message") || "");
+
+    setSending(true);
+    try {
+      await sendFormEmail({
+        formType: "Contact",
+        fullName,
+        email,
+        phone,
+        fields: {
+          "Nature of Enquiry": t(`forms.contact.enquiry_options.${enquiry}`),
+          Message: message,
+        },
+      });
+      toast.add({ title: t("forms.status.success"), type: "success" });
+      form.reset();
+      setEnquiry(undefined);
+    } catch {
+      toast.add({ title: t("forms.status.error"), type: "error" });
+    } finally {
+      setSending(false);
+    }
   };
 
   return (
@@ -103,8 +138,12 @@ const ContactForm = () => {
           className={formTextareaClass}
         />
       </div>
-      <Button type="submit" className="w-full font-semibold" size="lg">
-        {t("forms.contact.submit")}
+      <Button
+        type="submit"
+        disabled={sending}
+        className="w-full font-semibold"
+        size="lg">
+        {sending ? t("forms.status.sending") : t("forms.contact.submit")}
       </Button>
     </form>
   );

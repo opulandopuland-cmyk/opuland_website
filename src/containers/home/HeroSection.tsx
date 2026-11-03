@@ -82,20 +82,6 @@ const HeroSection = () => {
               scaleEffect
               className="relative z-10 aspect-[4/3] w-full rounded-2xl shadow-2xl shadow-black/30 ring-1 ring-white/10"
             />
-
-            <motion.div
-              initial={{ opacity: 0, x: 24 }}
-              whileInView={{ opacity: 1, x: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.7, delay: 0.7 }}
-              className="absolute -bottom-4 end-4 md:end-8 z-20 rounded-xl bg-white/95 backdrop-blur px-4 py-3 shadow-lg border border-yellow/20">
-              <p className="text-[10px] uppercase tracking-[0.18em] text-yellow font-semibold">
-                OPG
-              </p>
-              <p className="text-xs md:text-sm text-primary font-medium leading-snug">
-                {t("home.what_we_do.tagline").replace(/"/g, "")}
-              </p>
-            </motion.div>
           </motion.div>
         </Animation.Slide>
       </div>
